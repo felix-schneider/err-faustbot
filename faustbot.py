@@ -111,7 +111,7 @@ class FaustBot(BotPlugin):
         else:
             sentence = sentences[0]
 
-        return err + '"{0}", gesprochen von {1} in Vers {2}'.format(" / ".join(sentence[1]), sentence[0].upper(), actual_line)
+        return err + '„{0}“, gesprochen von {1} in Vers {2}'.format(" / ".join(sentence[1]), sentence[0].upper(), actual_line)
 
     def getnextsmallerkey(self, d, i):
         last = -1
