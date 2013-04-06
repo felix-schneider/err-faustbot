@@ -54,7 +54,7 @@ class FaustBot(BotPlugin):
         if len(argss) != 0:
             if argss[0].isnumeric():
                 i = int(argss[0])
-                if i < self.lines or i > self.lines:
+                if abs(i) > self.lines:
                     err += "Faust hat nur " + str(self.lines) + " Verse.\n"
                 elif i == 0:
                     line = 1
