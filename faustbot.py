@@ -81,7 +81,7 @@ class FaustBot(BotPlugin):
         argss = args.split(' ')
         line = 0
         err = ""
-        if len(argss) != 0:
+        if len(args) != 0:
             if argss[0] == "help":
                 return "!faust für einen zufälligen Vers. !faust [1.." + str(len(self.faustdb)) + "]\
  für einen bestimmten und !faust [-" + str(len(self.faustdb)) + ",-1] für einen bestimmten von hinten."
