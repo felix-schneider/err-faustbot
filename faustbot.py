@@ -64,7 +64,7 @@ class FaustBot(BotPlugin):
                     else:
                         line = i
 
-        if line == 0
+        if line == 0:
             line = random.randint(0, self.lines)
         
         whosaidit = self.getNextSmaller(self.characters, line)
