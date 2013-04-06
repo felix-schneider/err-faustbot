@@ -26,7 +26,7 @@ class FaustBot(BotPlugin):
                 characters[i+1] = line[:-2]
                 newlines = 0
                 lastSentence = 0
-            elif newlines < 2:
+            elif newlines < 2 and not line.startswith("("):
                 i += 1
                 newlines = 0
                 if lastSentence == 0:
