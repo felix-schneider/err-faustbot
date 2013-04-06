@@ -7,7 +7,7 @@ class FaustBot(BotPlugin):
     def __init__(self):
         super(FaustBot, self).__init__()
         self.parseFaust()
-    
+
     def parseFaust(self):
         faust = open("faust.txt", encoding="utf-8")
         sentences = {}
@@ -16,7 +16,7 @@ class FaustBot(BotPlugin):
         i = 0
         newlines = 2
         lastSentence = 0
-        
+
         while line != "":
             if line == "\n":
                 newlines += 1
@@ -39,7 +39,7 @@ class FaustBot(BotPlugin):
                 elif lastSentence == 0:
                     lastSentence = i
             line = faust.readline()
-        
+
         faust.close()
         self.sentences = sentences
         self.characters = characters
@@ -64,13 +64,13 @@ class FaustBot(BotPlugin):
                     else:
                         line = i
 
-        if line == 0
+        if line == 0:
             line = random.randint(0, self.lines)
-        
+
         whosaidit = self.getNextSmaller(self.characters, line)
         sentence = self.getNextSmaller(self.sentences, line)
         return err + '"{0}", gesprochen von {1} in Vers {2}'.format(sentence, whosaidit, line)
-    
+
     def getNextSmaller(self, d, i):
         last = -1
         for j in iter(sorted(d.keys())):
