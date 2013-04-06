@@ -32,7 +32,7 @@ class FaustBot(BotPlugin):
                 if lastSentence == 0:
                     sentences[i] = line[:-1] # no ugly \n
                 else:
-                    sentences[lastSentence]+= "\\ " + line[:-1]
+                    sentences[lastSentence]+= " \\ " + line[:-1]
 
                 if line[-2] in ["!", ".", "?"]:
                     lastSentence = 0
