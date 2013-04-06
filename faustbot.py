@@ -37,7 +37,7 @@ class FaustBot(BotPlugin):
                         lastSentence = 0
                     elif lastSentence == 0:
                         lastSentence = i
-            
+        
         self.sentences = sentences
         self.characters = characters
         self.lines = i
@@ -68,7 +68,7 @@ class FaustBot(BotPlugin):
         
         if line == 0:
             line = random.randint(0, self.lines)
-
+        
         whosaidit = self.getnextsmaller(self.characters, line)
         sentence = self.getnextsmaller(self.sentences, line)
         return err + '"{0}", gesprochen von {1} in Vers {2}'.format(sentence, whosaidit, line)
