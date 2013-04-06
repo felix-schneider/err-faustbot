@@ -3,7 +3,7 @@ from errbot import botcmd
 import random
 
 class FaustBot(BotPlugin):
-
+    
     def __init__(self):
         super(FaustBot, self).__init__()
         self.parseFaust()
@@ -32,7 +32,7 @@ class FaustBot(BotPlugin):
                         sentences[i] = line[:-1] # no ugly \n
                     else:
                         sentences[lastSentence]+= " \\ " + line[:-1]
-
+                    
                     if line[-2] in ["!", ".", "?"]:
                         lastSentence = 0
                     elif lastSentence == 0:
