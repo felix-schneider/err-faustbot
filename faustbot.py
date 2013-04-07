@@ -1,4 +1,4 @@
-﻿# coding=utf-8
+﻿# -*- coding=utf-8 -*-
 
 from errbot.botplugin import BotPlugin
 from errbot import botcmd
@@ -73,7 +73,7 @@ class FaustBot(BotPlugin):
         
         whosaidit = self.getnextsmaller(self.characters, line)
         sentence = self.getnextsmaller(self.sentences, line)
-        return err + '"{0}", gesprochen von {1} in Vers {2}'.format(sentence, whosaidit, line)
+        return err + '„{0}“, gesprochen von {1} in Vers {2}'.format(sentence, whosaidit, line)
     
     def getnextsmaller(self, d, i):
         last = -1
