@@ -83,24 +83,24 @@ class FaustBot(BotPlugin):
         err = ""
         if len(args) != 0:
             if argss[0] == "help":
-                return "!faust für einen zufälligen Vers. !faust [1.." + str(len(self.faustdb)) + "]\
- für einen bestimmten und !faust [-" + str(len(self.faustdb)) + ",-1] für einen bestimmten von hinten."
+                return "!faust für einen zufälligen Vers. !faust [1.." + str(self.faustdb.keys()[-1]) + "]\
+ für einen bestimmten und !faust [-" + str(self.faustdb.keys()[-1]) + ",-1] für einen bestimmten von hinten."
             try:
                 i = int(argss[0])
-                if abs(i) > len(self.faustdb):
-                    err += "Faust hat nur " + str(len(self.faustdb)) + " Verse. Du kriegst einen anderen:\n"
+                if abs(i) > self.faustdb.keys()[-1]:
+                    err += "Faust hat nur " + str(self.faustdb.keys()[-1]) + " Verse. Du kriegst einen anderen:\n"
                 elif i == 0:
                     line = 1
                 else:
                     if i < 0:
-                        line = len(self.faustdb) - i + 1
+                        line = self.faustdb.keys()[-1] - i + 1
                     else:
                         line = i
             except ValueError:
                 err += "Das ist keine Zahl. Ich bin mir sicher. Nimm einen zufälligen Vers:\n"
 
         if line == 0:
-            line = random.randint(0, len(self.faustdb))
+            line = random.randint(0, self.faustdb.keys()[-1])
 
         actual_line = self.getnextsmallerkey(self.faustdb, line)
         sentences = self.faustdb[actual_line]
