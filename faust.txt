@@ -1,9 +1,9 @@
-﻿ZUNEIGUNG:
+ZUNEIGUNG:
 Ihr naht euch wieder, schwankende Gestalten,
 Die früh sich einst dem trüben Blick gezeigt.
 Versuch ich wohl, euch diesmal festzuhalten?
 Fühl ich mein Herz noch jenem Wahn geneigt?
-Ihr drängt euch zu!  nun gut, so mögt ihr walten,
+Ihr drängt euch zu! nun gut, so mögt ihr walten,
 Wie ihr aus Dunst und Nebel um mich steigt;
 Mein Busen fühlt sich jugendlich erschüttert
 Vom Zauberhauch, der euren Zug umwittert.
@@ -20,7 +20,7 @@ Vom Glück getäuscht, vor mir hinweggeschwunden.
 Sie hören nicht die folgenden Gesänge,
 Die Seelen, denen ich die ersten sang;
 Zerstoben ist das freundliche Gedränge,
-Verklungen, ach!  der erste Widerklang.
+Verklungen, ach! der erste Widerklang.
 Mein Lied ertönt der unbekannten Menge,
 Ihr Beifall selbst macht meinem Herzen bang,
 Und was sich sonst an meinem Lied erfreuet,
@@ -34,13 +34,6 @@ Ein Schauer faßt mich, Träne folgt den Tränen,
 Das strenge Herz, es fühlt sich mild und weich;
 Was ich besitze, seh ich wie im Weiten,
 Und was verschwand, wird mir zu Wirklichkeiten.
-
-
-
-
-Vorspiel auf dem Theater
-
-Direktor.  Theatherdichter.  Lustige Person:
 
 DIREKTOR:
 Ihr beiden, die ihr mir so oft,
@@ -80,7 +73,7 @@ Wo nur dem Dichter reine Freude blüht;
 Wo Lieb und Freundschaft unsres Herzens Segen
 Mit Götterhand erschaffen und erpflegen.
 
-Ach!  was in tiefer Brust uns da entsprungen,
+Ach! was in tiefer Brust uns da entsprungen,
 Was sich die Lippe schüchtern vorgelallt,
 Mißraten jetzt und jetzt vielleicht gelungen,
 Verschlingt des wilden Augenblicks Gewalt.
@@ -103,7 +96,7 @@ Um ihn gewisser zu erschüttern.
 Drum seid nur brav und zeigt euch musterhaft,
 Laßt Phantasie, mit allen ihren Chören,
 Vernunft, Verstand, Empfindung, Leidenschaft,
-Doch, merkt euch wohl!  nicht ohne Narrheit hören.
+Doch, merkt euch wohl! nicht ohne Narrheit hören.
 
 DIREKTOR:
 Besonders aber laßt genug geschehn!
@@ -126,7 +119,7 @@ DICHTER:
 Ihr fühlet nicht, wie schlecht ein solches Handwerk sei!
 Wie wenig das dem echten Künstler zieme!
 Der saubern Herren Pfuscherei
-Ist.  merk ich.  schon bei Euch Maxime.
+Ist. merk ich. schon bei Euch Maxime.
 
 DIREKTOR:
 Ein solcher Vorwurf läßt mich ungekränkt:
@@ -154,7 +147,7 @@ Ich sag Euch, gebt nur mehr und immer, immer mehr,
 So könnt Ihr Euch vom Ziele nie verirren
 Sucht nur die Menschen zu verwirren,
 Sie zu befriedigen, ist schwer--
-Was fällt Euch an?  Entzückung oder Schmerzen?
+Was fällt Euch an? Entzückung oder Schmerzen?
 
 DICHTER:
 Geh hin und such dir einen andern Knecht!
@@ -179,7 +172,7 @@ Wer schüttet alle schönen Frühlingsblüten
 Auf der Geliebten Pfade hin?
 Wer flicht die unbedeutend grünen Blätter
 Zum Ehrenkranz Verdiensten jeder Art?
-Wer sichert den Olymp?  vereinet Götter?
+Wer sichert den Olymp? vereinet Götter?
 Des Menschen Kraft, im Dichter offenbart.
 
 LUSTIGE PERSON:
@@ -276,14 +269,6 @@ Den ganzen Kreis der Schöpfung aus,
 Und wandelt mit bedächt'ger Schnelle
 Vom Himmel durch die Welt zur Hölle.
 
-
-
-
-Prolog im Himmel.
-
-Der Herr.  Die himmlischen Heerscharen.  Nachher Mephistopheles.
-Die drei Erzengel treten vor.
-
 RAPHAEL:
 Die Sonne tönt, nach alter Weise,
 In Brudersphären Wettgesang,
@@ -350,7 +335,7 @@ Kommst du nur immer anzuklagen?
 Ist auf der Erde ewig dir nichts recht?
 
 MEPHISTOPHELES:
-Nein Herr!  ich find es dort, wie immer, herzlich schlecht.
+Nein Herr! ich find es dort, wie immer, herzlich schlecht.
 Die Menschen dauern mich in ihren Jammertagen,
 Ich mag sogar die armen selbst nicht plagen.
 
@@ -358,13 +343,13 @@ DER HERR:
 Kennst du den Faust?
 
 MEPHISTOPHELES:
-Den Doktor?
+    Den Doktor?
 
 DER HERR:
-Meinen Knecht!
+        Meinen Knecht!
 
 MEPHISTOPHELES:
-Fürwahr!  er dient Euch auf besondre Weise.
+Fürwahr! er dient Euch auf besondre Weise.
 Nicht irdisch ist des Toren Trank noch Speise.
 Ihn treibt die Gärung in die Ferne,
 Er ist sich seiner Tollheit halb bewußt;
@@ -380,7 +365,7 @@ Weiß doch der Gärtner, wenn das Bäumchen grünt,
 Das Blüt und Frucht die künft'gen Jahre zieren.
 
 MEPHISTOPHELES:
-Was wettet Ihr?  den sollt Ihr noch verlieren!
+Was wettet Ihr? den sollt Ihr noch verlieren!
 Wenn Ihr mir die Erlaubnis gebt,
 Ihn meine Straße sacht zu führen.
 
@@ -406,7 +391,7 @@ Ein guter Mensch, in seinem dunklen Drange,
 Ist sich des rechten Weges wohl bewußt.
 
 MEPHISTOPHELES:
-Schon gut!  nur dauert es nicht lange.
+Schon gut! nur dauert es nicht lange.
 Mir ist für meine Wette gar nicht bange.
 Wenn ich zu meinem Zweck gelange,
 Erlaubt Ihr mir Triumph aus voller Brust.
@@ -428,26 +413,15 @@ Das Werdende, das ewig wirkt und lebt,
 Umfass euch mit der Liebe holden Schranken,
 Und was in schwankender Erscheinung schwebt,
 Befestigt mit dauernden Gedanken!
-(Der Himmel schließt, die Erzengel verteilen sich.)
 
-MEPHISTOPHELES (allein):
+MEPHISTOPHELES:
 Von Zeit zu Zeit seh ich den Alten gern,
 Und hüte mich, mit ihm zu brechen.
 Es ist gar hübsch von einem großen Herrn,
 So menschlich mit dem Teufel selbst zu sprechen.
 
-
-
-
-FAUST: Der Tragödie erster Teil
-
-Nacht.
-
-In einem hochgewölbten, engen gotischen Zimmer Faust,
-unruhig auf seinem Sessel am Pulte.
-
 FAUST:
-Habe nun, ach!  Philosophie,
+Habe nun, ach! Philosophie,
 Juristerei und Medizin,
 Und leider auch Theologie
 Durchaus studiert, mit heißem Bemühn.
@@ -486,14 +460,14 @@ Den ich so manche Mitternacht
 An diesem Pult herangewacht:
 Dann über Büchern und Papier,
 Trübsel'ger Freund, erschienst du mir!
-Ach!  könnt ich doch auf Bergeshöhn
+Ach! könnt ich doch auf Bergeshöhn
 In deinem lieben Lichte gehn,
 Um Bergeshöhle mit Geistern schweben,
 Auf Wiesen in deinem Dämmer weben,
 Von allem Wissensqualm entladen,
 In deinem Tau gesund mich baden!
 
-Weh!  steck ich in dem Kerker noch?
+Weh! steck ich in dem Kerker noch?
 Verfluchtes dumpfes Mauerloch,
 Wo selbst das liebe Himmelslicht
 Trüb durch gemalte Scheiben bricht!
@@ -504,7 +478,7 @@ Ein angeraucht Papier umsteckt;
 Mit Gläsern, Büchsen rings umstellt,
 Mit Instrumenten vollgepfropft,
 Urväter Hausrat drein gestopft-
-Das ist deine Welt!  das heißt eine Welt!
+Das ist deine Welt! das heißt eine Welt!
 
 Und fragst du noch, warum dein Herz
 Sich bang in deinem Busen klemmt?
@@ -515,7 +489,7 @@ Da Gott die Menschen schuf hinein,
 Umgibt in Rauch und Moder nur
 Dich Tiergeripp und Totenbein.
 
-Flieh!  auf!  hinaus ins weite Land!
+Flieh! auf! hinaus ins weite Land!
 Und dies geheimnisvolle Buch,
 Von Nostradamus' eigner Hand,
 Ist dir es nicht Geleit genug?
@@ -527,9 +501,9 @@ Umsonst, daß trocknes Sinnen hier
 Die heil'gen Zeichen dir erklärt:
 Ihr schwebt, ihr Geister, neben mir;
 Antwortet mir, wenn ihr mich hört!
-(Er schlägt das Buch auf und erblickt das Zeichen des Makrokosmus.)
 
-Ha!  welche Wonne fließt in diesem Blick
+
+Ha! welche Wonne fließt in diesem Blick
 Auf einmal mir durch alle meine Sinnen!
 Ich fühle junges, heil'ges Lebensglück
 Neuglühend mir durch Nerv' und Adern rinnen.
@@ -538,7 +512,7 @@ Die mir das innre Toben stillen,
 Das arme Herz mit Freude füllen,
 Und mit geheimnisvollem Trieb
 Die Kräfte der Natur rings um mich her enthüllen?
-Bin ich ein Gott?  Mir wird so licht!
+Bin ich ein Gott? Mir wird so licht!
 Ich schau in diesen reinen Zügen
 Die wirkende Natur vor meiner Seele liegen.
 Jetzt erst erkenn ich, was der Weise spricht:
@@ -546,7 +520,7 @@ Jetzt erst erkenn ich, was der Weise spricht:
 Dein Sinn ist zu, dein Herz ist tot!
 Auf, bade, Schüler, unverdrossen
 Die ird'sche Brust im Morgenrot!"
-(er beschaut das Zeichen.)
+
 
 Wie alles sich zum Ganzen webt,
 Eins in dem andern wirkt und lebt!
@@ -556,13 +530,13 @@ Mit segenduftenden Schwingen
 Vom Himmel durch die Erde dringen,
 Harmonisch all das All durchklingen!
 
-Welch Schauspiel!  Aber ach!  ein Schauspiel nur!
+Welch Schauspiel! Aber ach! ein Schauspiel nur!
 Wo fass ich dich, unendliche Natur?
-Euch Brüste, wo?  Ihr Quellen alles Lebens,
+Euch Brüste, wo? Ihr Quellen alles Lebens,
 An denen Himmel und Erde hängt,
 Dahin die welke Brust sich drängt-
 Ihr quellt, ihr tränkt, und schmacht ich so vergebens?
-(er schlägt unwillig das Buch um und erblickt das Zeichen des Erdgeistes.)
+
 
 Wie anders wirkt dies Zeichen auf mich ein!
 Du, Geist der Erde, bist mir näher;
@@ -575,25 +549,24 @@ Und in des Schiffbruchs Knirschen nicht zu zagen.
 Es wölkt sich über mir-
 Der Mond verbirgt sein Licht-
 Die Lampe schwindet!
-Es dampft!  Es zucken rote Strahlen
+Es dampft! Es zucken rote Strahlen
 Mir um das Haupt- Es weht
 Ein Schauer vom Gewölb herab
 Und faßt mich an!
 Ich fühl's, du schwebst um mich, erflehter Geist
 Enthülle dich!
-Ha!  wie's in meinem Herzen reißt!
+Ha! wie's in meinem Herzen reißt!
 Zu neuen Gefühlen
 All meine Sinnen sich erwühlen!
 Ich fühle ganz mein Herz dir hingegeben!
-Du mußt!  du mußt!  und kostet es mein Leben!
-(Er faßt das Buch und spricht das Zeichen des Geistes geheimnisvoll aus.
-Es zuckt eine rötliche Flamme, der Geist erscheint in der Flamme.)
+Du mußt! du mußt! und kostet es mein Leben!
+
 
 GEIST:
 Wer ruft mir?
 
-FAUST (abgewendet):
-Schreckliches Gesicht!
+FAUST:
+    Schreckliches Gesicht!
 
 GEIST:
 Du hast mich mächtig angezogen,
@@ -601,14 +574,14 @@ An meiner Sphäre lang gesogen,
 Und nun-
 
 FAUST:
-Weh!  ich ertrag dich nicht!
+    Weh! ich ertrag dich nicht!
 
 GEIST:
 Du flehst, eratmend mich zu schauen,
 Meine Stimme zu hören, mein Antlitz zu sehn;
 Mich neigt dein mächtig Seelenflehn,
 Da bin ich!- Welch erbärmlich Grauen
-Faßt Übermenschen dich!  Wo ist der Seele Ruf?
+Faßt Übermenschen dich! Wo ist der Seele Ruf?
 Wo ist die Brust, die eine Welt in sich erschuf
 Und trug und hegte, die mit Freudebeben
 Erschwoll, sich uns, den Geistern, gleich zu heben?
@@ -640,24 +613,23 @@ Geschäftiger Geist, wie nah fühl ich mich dir!
 GEIST:
 Du gleichst dem Geist, den du begreifst,
 Nicht mir!
-(verschwindet)
 
-FAUST (zusammenstürzend):
+
+FAUST:
 Nicht dir?
 Wem denn?
 Ich Ebenbild der Gottheit!
 Und nicht einmal dir!
-(es klopft)
 
-O Tod!  ich kenn's- das ist mein Famulus-
+
+O Tod! ich kenn's- das ist mein Famulus-
 Es wird mein schönstes Glück zunichte!
 Daß diese Fülle der Gesichte
 Der trockne Schleicher stören muß!
-(Wagner im Schlafrock und der Nachtmütze, eine Lampe in der Hand.
-Faust wendet sich unwillig.)
+
 
 WAGNER:
-Verzeiht!  ich hör euch deklamieren;
+Verzeiht! ich hör euch deklamieren;
 Ihr last gewiß ein griechisch Trauerspiel?
 In dieser Kunst möcht ich was profitieren,
 Denn heutzutage wirkt das viel.
@@ -669,7 +641,7 @@ Ja, wenn der Pfarrer ein Komödiant ist;
 Wie das denn wohl zuzeiten kommen mag.
 
 WAGNER:
-Ach!  wenn man so in sein Museum gebannt ist,
+Ach! wenn man so in sein Museum gebannt ist,
 Und sieht die Welt kaum einen Feiertag,
 Kaum durch ein Fernglas, nur von weitem,
 Wie soll man sie durch Überredung leiten?
@@ -679,7 +651,7 @@ Wenn ihr's nicht fühlt, ihr werdet's nicht erjagen,
 Wenn es nicht aus der Seele dringt
 Und mit urkräftigem Behagen
 Die Herzen aller Hörer zwingt.
-Sitzt ihr nur immer!  leimt zusammen,
+Sitzt ihr nur immer! leimt zusammen,
 Braut ein Ragout von andrer Schmaus
 Und blast die kümmerlichen Flammen
 Aus eurem Aschenhäufchen 'raus!
@@ -705,7 +677,7 @@ Sind unerquicklich wie der Nebelwind,
 Der herbstlich durch die dürren Blätter säuselt!
 
 WAGNER:
-Ach Gott!  die Kunst ist lang;
+Ach Gott! die Kunst ist lang;
 Und kurz ist unser Leben.
 Mir wird, bei meinem kritischen Bestreben,
 Doch oft um Kopf und Busen bang.
@@ -721,7 +693,7 @@ Erquickung hast du nicht gewonnen,
 Wenn sie dir nicht aus eigner Seele quillt.
 
 WAGNER:
-Verzeiht!  es ist ein groß Ergetzen,
+Verzeiht! es ist ein groß Ergetzen,
 Sich in den Geist der Zeiten zu versetzen;
 Zu schauen, wie vor uns ein weiser Mann gedacht,
 Und wie wir's dann zuletzt so herrlich weit gebracht.
@@ -741,7 +713,7 @@ Mit trefflichen pragmatischen Maximen,
 Wie sie den Puppen wohl im Munde ziemen!
 
 WAGNER:
-Allein die Welt!  des Menschen Herz und Geist!
+Allein die Welt! des Menschen Herz und Geist!
 Möcht jeglicher doch was davon erkennen.
 
 FAUST:
@@ -761,9 +733,9 @@ Doch morgen, als am ersten Ostertage,
 Erlaubt mir ein' und andre Frage.
 Mit Eifer hab' ich mich der Studien beflissen;
 Zwar weiß ich viel, doch möcht' ich alles wissen.
-(Ab.)
 
-FAUST (allein):
+
+FAUST:
 Wie nur dem Kopf nicht alle Hoffnung schwindet,
 Der immerfort an schalem Zeuge klebt,
 Mit gier'ger Hand nach Schätzen gräbt,
@@ -771,11 +743,11 @@ Und froh ist, wenn er Regenwürmer findet!
 
 Darf eine solche Menschenstimme hier,
 Wo Geisterfülle mich umgab, ertönen?
-Doch ach!  für diesmal dank ich dir,
+Doch ach! für diesmal dank ich dir,
 Dem ärmlichsten von allen Erdensöhnen.
 Du rissest mich von der Verzweiflung los,
 Die mir die Sinne schon zerstören wollte.
-Ach!  die Erscheinung war so riesengroß,
+Ach! die Erscheinung war so riesengroß,
 Daß ich mich recht als Zwerg empfinden sollte.
 
 Ich, Ebenbild der Gottheit, das sich schon
@@ -795,9 +767,9 @@ In jenem sel'gen Augenblicke
 Ich fühlte mich so klein, so groß;
 Du stießest grausam mich zurücke,
 Ins ungewisse Menschenlos.
-Wer lehret mich?  was soll ich meiden?
+Wer lehret mich? was soll ich meiden?
 Soll ich gehorchen jenem Drang?
-Ach!  unsre Taten selbst, so gut als unsre Leiden,
+Ach! unsre Taten selbst, so gut als unsre Leiden,
 Sie hemmen unsres Lebens Gang.
 
 Dem Herrlichsten, was auch der Geist empfangen,
@@ -820,7 +792,7 @@ Als Feuer, Wasser, Dolch und Gift;
 Du bebst vor allem, was nicht trifft,
 Und was du nie verlierst, das mußt du stets beweinen.
 
-Den Göttern gleich ich nicht!  zu tief ist es gefühlt;
+Den Göttern gleich ich nicht! zu tief ist es gefühlt;
 Dem Wurme gleich ich, der den Staub durchwühlt,
 Den, wie er sich im Staube nährend lebt,
 Des Wandrers Tritt vernichtet und begräbt.
@@ -875,7 +847,7 @@ Die Spiegelflut erglänzt zu meinen Füßen,
 Zu neuen Ufern lockt ein neuer Tag.
 
 Ein Feuerwagen schwebt, auf leichten Schwingen,
-An mich heran!  Ich fühle mich bereit,
+An mich heran! Ich fühle mich bereit,
 Auf neuer Bahn den Äther zu durchdringen,
 Zu neuen Sphären reiner Tätigkeit.
 Dies hohe Leben, diese Götterwonne!
@@ -910,8 +882,6 @@ Mit brauner Flut erfüllt er deine Höhle.
 Den ich bereit, den ich wähle,
 "Der letzte Trunk sei nun, mit ganzer Seele,
 Als festlich hoher Gruß, dem Morgen zugebracht!
-(Er setzt die Schale an den Mund.)
-Glockenklang und Chorgesang.
 
 CHOR DER ENGEL:
 Christ ist erstanden!
@@ -936,7 +906,7 @@ Wir seine Treuen
 Hatten ihn hingelegt;
 Tücher und Binden
 Reinlich unwanden wir,
-Ach!  und wir finden
+Ach! und wir finden
 Christ nicht mehr hier.
 
 CHOR DER ENGEL:
@@ -978,11 +948,11 @@ Lebend Erhabene,
 Herrlich erhoben;
 Ist er in Werdeluft
 Schaffender Freude nah:
-Ach!  an der Erde Brust
+Ach! an der Erde Brust
 Sind wir zum Leide da.
 Ließ er die Seinen
 Schmachtend uns hier zurück;
-Ach!  wir beweinen,
+Ach! wir beweinen,
 Meister, dein Glück!
 
 CHOR DER ENGEL:
@@ -997,13 +967,6 @@ Predigend reisenden,
 Wonne verheißenden
 Euch ist der Meister nah,
 Euch ist er da!
-
-
-
-Vor dem Tor
-
-Spaziergänger aller Art ziehen hinaus.
-
 
 EINIGE HANDWERKSBURSCHE:
 Warum denn dort hinaus?
@@ -1024,7 +987,7 @@ DIE ZWEITEN:
 Was tust denn du?
 
 EIN DRITTER:
-Ich gehe mit den andern.
+    Ich gehe mit den andern.
 
 VIERTER:
 Nach Burgdorf kommt herauf, gewiß dort findet ihr
@@ -1037,7 +1000,7 @@ Juckt dich zum drittenmal das Fell?
 Ich mag nicht hin, mir graut es vor dem Orte.
 
 DIENSTMÄDCHEN:
-Nein, nein!  ich gehe nach der Stadt zurück.
+Nein, nein! ich gehe nach der Stadt zurück.
 
 ANDRE:
 Wir finden ihn gewiß bei jenen Pappeln stehen.
@@ -1054,7 +1017,7 @@ Der Krauskopf, sagt er, würde bei ihm sein.
 
 SCHÜLER:
 Blitz, wie die wackern Dirnen schreiten!
-Herr Bruder, komm!  wir müssen sie begleiten.
+Herr Bruder, komm! wir müssen sie begleiten.
 Ein starkes Bier, ein beizender Toback,
 Und eine Magd im Putz, das ist nun mein Geschmack.
 
@@ -1063,8 +1026,8 @@ Da sieh mir nur die schönen Knaben!
 Es ist wahrhaftig eine Schmach:
 Gesellschaft könnten sie die allerbeste haben,
 Und laufen diesen Mägden nach!
-ZWEITER SCHÜLER (zum ersten):
-Nicht so geschwind!  dort hinten kommen zwei,
+ZWEITER SCHÜLER:
+Nicht so geschwind! dort hinten kommen zwei,
 Sie sind gar niedlich angezogen,
 's ist meine Nachbarin dabei;
 Ich bin dem Mädchen sehr gewogen.
@@ -1072,8 +1035,8 @@ Sie gehen ihren stillen Schritt
 Und nehmen uns doch auch am Ende mit.
 
 ERSTER:
-Herr Bruder, nein!  Ich bin nicht gern geniert.
-Geschwind!  daß wir das Wildbret nicht verlieren.
+Herr Bruder, nein! Ich bin nicht gern geniert.
+Geschwind! daß wir das Wildbret nicht verlieren.
 Die Hand, die samstags ihren Besen führt
 Wird sonntags dich am besten karessieren.
 
@@ -1085,7 +1048,7 @@ Wird es nicht alle Tage schlimmer?
 Gehorchen soll man mehr als immer,
 Und zahlen mehr als je vorher.
 
-BETTLER (singt):
+BETTLER:
 Ihr guten Herrn, ihr schönen Frauen,
 So wohlgeputzt und backenrot,
 Belieb es euch, mich anzuschauen,
@@ -1106,18 +1069,18 @@ Dann kehrt man abends froh nach Haus,
 Und segnet Fried und Friedenszeiten.
 
 DRITTER BÜRGER:
-Herr Nachbar, ja!  so laß ich's auch geschehn:
+Herr Nachbar, ja! so laß ich's auch geschehn:
 Sie mögen sich die Köpfe spalten,
 Mag alles durcheinander gehn;
 Doch nur zu Hause bleib's beim alten.
-ALTE (zu den Bürgermädchen):
-Ei!  wie geputzt!  das schöne junge Blut!
+ALTE:
+Ei! wie geputzt! das schöne junge Blut!
 Wer soll sich nicht in euch vergaffen?-
-Nur nicht so stolz!  es ist schon gut!
+Nur nicht so stolz! es ist schon gut!
 Und was ihr wünscht, das wüßt ich wohl zu schaffen.
 
 BÜRGERMÄDCHEN:
-Agathe, fort!  ich nehme mich in acht,
+Agathe, fort! ich nehme mich in acht,
 Mit solchen Hexen öffentlich zu gehen;
 Sie ließ mich zwar in Sankt Andreas' Nacht
 Den künft'gen Liebsten leiblich sehen-
@@ -1149,9 +1112,6 @@ Herrlich der Lohn!
 Und die Soldaten
 Ziehen davon.
 
-
-Faust und Wagner.
-
 FAUST:
 Vom Eise befreit sind Strom und Bäche
 Durch des Frühlings holden, belebenden Blick;
@@ -1179,7 +1139,7 @@ Aus dem Druck von Giebeln und Dächern,
 Aus der Straßen quetschender Enge,
 Aus der Kirchen ehrwürdiger Nacht
 Sind sie alle ans Licht gebracht.
-Sieh nur, sieh!  wie behend sich die Menge
+Sieh nur, sieh! wie behend sich die Menge
 Durch die Gärten und Felder zerschlägt,
 Wie der Fluß, in Breit und Länge
 So manchen lustigen Nachen bewegt,
@@ -1200,18 +1160,16 @@ Weil ich ein Feind von allem Rohen bin.
 Das Fiedeln, Schreien, Kegelschieben
 Ist mir ein gar verhaßter Klang;
 Sie toben wie vom bösen Geist getrieben
-Und nennen's Freude.  nennen's Gesang.
+Und nennen's Freude. nennen's Gesang.
 
-
-Bauern unter der Linde.  Tanz und Gesang.
-
+BAUERN:
 Der Schäfer putzte sich zum Tanz,
 Mit bunter Jacke, Band und Kranz,
 Schmuck war er angezogen.
 Schon um die Linde war es voll,
 Und alles tanzte schon wie toll.
-Juchhe!  Juchhe!
-Juchheisa!  Heisa!  He!
+Juchhe! Juchhe!
+Juchheisa! Heisa! He!
 So ging der Fiedelbogen.
 
 Er drückte hastig sich heran,
@@ -1219,8 +1177,8 @@ Da stieß er an ein Mädchen an
 Mit seinem Ellenbogen;
 Die frische Dirne kehrt, sich um
 Und sagte: Nun, das find ich dumm!
-Juchhe!  Juchhe!
-Juchheisa!  Heisa!  He!
+Juchhe! Juchhe!
+Juchheisa! Heisa! He!
 Seid nicht so ungezogen!
 
 Doch hurtig in dem Kreise ging's,
@@ -1228,8 +1186,8 @@ Sie tanzten rechts, sie tanzten links,
 Und alle Röcke flogen.
 Sie wurden rot, sie wurden warm
 Und ruhten atmend Arm in Arm,
-Juchhe!  Juchhe!
-Juchheisa!  Heisa!  He!
+Juchhe! Juchhe!
+Juchheisa! Heisa! He!
 Und Hüft an Ellenbogen.
 
 Und tu mir doch nicht so vertraut!
@@ -1237,8 +1195,8 @@ Wie mancher hat nicht seine Braut
 Belogen und betrogen!
 Er schmeichelte sie doch bei Seit,
 Und von der Linde scholl es weit:
-Juchhe!  Juchhe!
-Juchheisa!  Heisa!  He!
+Juchhe! Juchhe!
+Juchheisa! Heisa! He!
 Geschrei und Fiedelbogen.
 
 ALTER BAUER:
@@ -1256,7 +1214,7 @@ Sei Euren Tagen zugelegt.
 FAUST:
 Ich nehme den Erquickungstrank
 Erwidr' euch allen Heil und Dank.
-(Das Volk sammelt sich im Kreis umher.)
+
 
 ALTER BAUER:
 Fürwahr, es ist sehr wohl getan,
@@ -1281,7 +1239,7 @@ Daß er noch lange helfen kann!
 FAUST:
 Vor jenem droben steht gebückt,
 Der helfen lehrt und Hülfe schickt.
-(Er geht mit Wagnern weiter.)
+
 
 WAGNER:
 Welch ein Gefühl mußt du, o großer Mann,
@@ -1369,7 +1327,7 @@ Ich eile fort, ihr ew'ges Licht zu trinken,
 Vor mir den Tag und hinter mir die Nacht,
 Den Himmel über mir und unter mir die Wellen.
 Ein schöner Traum, indessen sie entweicht.
-Ach!  zu des Geistes Flügeln wird so leicht
+Ach! zu des Geistes Flügeln wird so leicht
 Kein körperlicher Flügel sich gesellen.
 Doch ist es jedem eingeboren
 Daß sein Gefühl hinauf und vorwärts dringt,
@@ -1389,13 +1347,13 @@ Wie anders tragen uns die Geistesfreuden
 Von Buch zu Buch, von Blatt zu Blatt!
 Da werden Winternächte hold und schön
 Ein selig Leben wärmet alle Glieder,
-Und ach!  entrollst du gar ein würdig Pergamen,
+Und ach! entrollst du gar ein würdig Pergamen,
 So steigt der ganze Himmel zu dir nieder.
 
 FAUST:
 Du bist dir nur des einen Triebs bewußt,
 O lerne nie den andern kennen!
-Zwei Seelen wohnen, ach!  in meiner Brust,
+Zwei Seelen wohnen, ach! in meiner Brust,
 Die eine will sich von der andern trennen;
 Die eine hält, in derber Liebeslust,
 Sich an die Welt mit klammernden Organen;
@@ -1427,7 +1385,7 @@ Sie hören gern, zum Schaden froh gewandt,
 Gehorchen gern, weil sie uns gern betrügen;
 Sie stellen wie vom Himmel sich gesandt,
 Und lispeln englisch, wenn sie lügen.
-Doch gehen wir!  Ergraut ist schon die Welt,
+Doch gehen wir! Ergraut ist schon die Welt,
 Die Luft gekühlt, der Nebel fällt!
 Am Abend schätzt man erst das Haus.-
 Was stehst du so und blickst erstaunt hinaus?
@@ -1440,7 +1398,7 @@ WAGNER:
 Ich sah ihn lange schon, nicht wichtig schien er mir.
 
 FAUST:
-Betracht ihn recht!  für was hältst du das Tier?
+Betracht ihn recht! für was hältst du das Tier?
 
 WAGNER:
 Für einen Pudel, der auf seine Weise
@@ -1468,12 +1426,12 @@ FAUST:
 Der Kreis wird eng, schon ist er nah!
 
 WAGNER:
-Du siehst!  ein Hund, und kein Gespenst ist da.
+Du siehst! ein Hund, und kein Gespenst ist da.
 Er knurrt und zweifelt, legt sich auf den Bauch,
-Er wedelt.  Alles Hundebrauch.
+Er wedelt. Alles Hundebrauch.
 
 FAUST:
-Geselle dich zu uns!  Komm hier!
+Geselle dich zu uns! Komm hier!
 
 WAGNER:
 Es ist ein pudelnärrisch Tier.
@@ -1491,14 +1449,6 @@ Dem Hunde, wenn er gut gezogen,
 Wird selbst ein weiser Mann gewogen.
 Ja, deine Gunst verdient er ganz und gar,
 Er, der Studenten trefflicher Skolar.
-(Sie gehen in das Stadttor.)
-
-
-
-Studierzimmer
-
-Faust mit dem Pudel hereintretend.
-
 
 FAUST:
 Verlassen hab ich Feld und Auen,
@@ -1508,23 +1458,27 @@ In uns die beßre Seele weckt.
 Entschlafen sind nun wilde Triebe
 Mit jedem ungestümen Tun;
 Es reget sich die Menschenliebe,
-Die Liebe Gottes regt sich nun.  Sei ruhig, Pudel!  renne nicht hin und
-wider!
+Die Liebe Gottes regt sich nun.
+
+Sei ruhig, Pudel! renne nicht hin und wider!
 An der Schwelle was schnoperst du hier?
 Lege dich hinter den Ofen nieder,
 Mein bestes Kissen geb ich dir.
 Wie du draußen auf dem bergigen Wege
 Durch Rennen und Springen ergetzt uns hast,
 So nimm nun auch von mir die Pflege,
-Als ein willkommner stiller Gast.  Ach wenn in unsrer engen Zelle
+Als ein willkommner stiller Gast.
+
+Ach wenn in unsrer engen Zelle
 Die Lampe freundlich wieder brennt,
 Dann wird's in unserm Busen helle,
 Im Herzen, das sich selber kennt.
 Vernunft fängt wieder an zu sprechen,
 Und Hoffnung wieder an zu blühn,
 Man sehnt sich nach des Lebens Bächen,
-Ach!  nach des Lebens Quelle hin.  Knurre nicht, Pudel!  Zu den heiligen
-Tönen,
+Ach! nach des Lebens Quelle hin.
+
+Knurre nicht, Pudel! Zu den heiligen Tönen,
 Die jetzt meine ganze Seel umfassen,
 Will der tierische Laut nicht passen.
 Wir sind gewohnt, daß die Menschen verhöhnen,
@@ -1533,7 +1487,7 @@ Daß sie vor dem Guten und Schönen,
 Das ihnen oft beschwerlich ist, murren;
 Will es der Hund, wie sie, beknurren?
 
-Aber ach!  schon fühl ich, bei dem besten Willen,
+Aber ach! schon fühl ich, bei dem besten Willen,
 Befriedigung nicht mehr aus dem Busen quillen.
 Aber warum muß der Strom so bald versiegen,
 Und wir wieder im Durste liegen?
@@ -1547,10 +1501,8 @@ Mich drängt's, den Grundtext aufzuschlagen,
 Mit redlichem Gefühl einmal
 Das heilige Original
 In mein geliebtes Deutsch zu übertragen,
-(Er schlägt ein Volum auf und schickt sich an.)
-
 Geschrieben steht: "Im Anfang war das Wort!"
-Hier stock ich schon!  Wer hilft mir weiter fort?
+Hier stock ich schon! Wer hilft mir weiter fort?
 Ich kann das Wort so hoch unmöglich schätzen,
 Ich muß es anders übersetzen,
 Wenn ich vom Geiste recht erleuchtet bin.
@@ -1561,7 +1513,7 @@ Ist es der Sinn, der alles wirkt und schafft?
 Es sollte stehn: Im Anfang war die Kraft!
 Doch, auch indem ich dieses niederschreibe,
 Schon warnt mich was, daß ich dabei nicht bleibe.
-Mir hilft der Geist!  Auf einmal seh ich Rat
+Mir hilft der Geist! Auf einmal seh ich Rat
 Und schreibe getrost: Im Anfang war die Tat!
 
 Soll ich mit dir das Zimmer teilen,
@@ -1575,17 +1527,17 @@ Ungern heb ich das Gastrecht auf,
 Die Tür ist offen, hast freien Lauf.
 Aber was muß ich sehen!
 Kann das natürlich geschehen?
-Ist es Schatten?  ist's Wirklichkeit?
+Ist es Schatten? ist's Wirklichkeit?
 Wie wird mein Pudel lang und breit!
 Er hebt sich mit Gewalt,
 Das ist nicht eines Hundes Gestalt!
 Welch ein Gespenst bracht ich ins Haus!
 Schon sieht er wie ein Nilpferd aus,
 Mit feurigen Augen, schrecklichem Gebiß.
-Oh!  du bist mir gewiß!
+Oh! du bist mir gewiß!
 Für solche halbe Höllenbrut
 Ist Salomonis Schlüssel gut.
-GEISTER (auf dem Gange):
+GEISTER:
 Drinnen gefangen ist einer!
 Bleibet haußen, folg ihm keiner!
 Wie im Eisen der Fuchs,
@@ -1601,38 +1553,52 @@ Schon viel zu Gefallen.
 
 FAUST:
 Erst zu begegnen dem Tiere,
-Brauch ich den Spruch der Viere: Salamander soll glühen,
+Brauch ich den Spruch der Viere:
+Salamander soll glühen,
 Undene sich winden,
 Sylphe verschwinden,
-Kobold sich mühen.  Wer sie nicht kennte
+Kobold sich mühen.
+
+Wer sie nicht kennte
 Die Elemente,
 Ihre Kraft
 Und Eigenschaft,
 Wäre kein Meister
-Über die Geister.  Verschwind in Flammen,
+Über die Geister.
+
+Verschwind in Flammen,
 Salamander!
 Rauschend fließe zusammen,
 Undene!
 Leucht in Meteoren-Schöne,
 Sylphe!
 Bring häusliche Hülfe,
-Incubus!  Incubus!
-Tritt hervor und mache den Schluß!  Keines der Viere
+Incubus! Incubus!
+Tritt hervor und mache den Schluß!
+
+Keines der Viere
 Steckt in dem Tiere.
 Es liegt ganz ruhig und grinst mich an;
 Ich hab ihm noch nicht weh getan.
 Du sollst mich hören
-Stärker beschwören.  Bist du, Geselle
+Stärker beschwören.
+
+Bist du, Geselle
 Ein Flüchtling der Hölle?
 So sieh dies Zeichen
 Dem sie sich beugen,
-Die schwarzen Scharen!  Schon schwillt es auf mit borstigen Haaren.
+Die schwarzen Scharen!
+
+Schon schwillt es auf mit borstigen Haaren.
+
 Verworfnes Wesen!
 Kannst du ihn lesen?
 Den nie Entsproßnen,
 Unausgesprochnen,
 Durch alle Himmel Gegoßnen,
-Freventlich Durchstochnen?  Hinter den Ofen gebannt,
+Freventlich Durchstochnen?
+
+Hinter den Ofen gebannt,
 Schwillt es wie ein Elefant
 Den ganzen Raum füllt es an,
 Es will zum Nebel zerfließen.
@@ -1644,15 +1610,14 @@ Erwarte nicht
 Das dreimal glühende Licht!
 Erwarte nicht
 Die stärkste von meinen Künsten!
-(Mephistopheles tritt, indem der Nebel fällt, gekleidet wie ein
-fahrender Scholastikus, hinter dem Ofen hervor.)
+
 
 MEPHISTOPHELES:
-Wozu der Lärm?  was steht dem Herrn zu Diensten?
+Wozu der Lärm? was steht dem Herrn zu Diensten?
 
 FAUST:
 Das also war des Pudels Kern!
-Ein fahrender Skolast?  Der Kasus macht mich lachen.
+Ein fahrender Skolast? Der Kasus macht mich lachen.
 
 MEPHISTOPHELES:
 Ich salutiere den gelehrten Herrn!
@@ -1662,7 +1627,8 @@ FAUST:
 Wie nennst du dich?
 
 MEPHISTOPHELES:
-Die Frage scheint mir klein Für einen, der das Wort so sehr verachtet,
+    Die Frage scheint mir klein
+Für einen, der das Wort so sehr verachtet,
 Der, weit entfernt von allem Schein,
 Nur in der Wesen Tiefe trachtet.
 
@@ -1674,8 +1640,8 @@ Wenn man euch Fliegengott, Verderber, Lügner heißt.
 Nun gut, wer bist du denn?
 
 MEPHISTOPHELES:
-Ein Teil von jener Kraft, Die stets das Böse will und stets das Gute
-schafft.
+    Ein Teil von jener Kraft,
+Die stets das Böse will und stets das Gute schafft.
 
 FAUST:
 Was ist mit diesem Rätselwort gemeint?
@@ -1752,7 +1718,7 @@ Hier ist das Fenster, hier die Türe,
 Ein Rauchfang ist dir auch gewiß.
 
 MEPHISTOPHELES:
-Gesteh ich's nur!  daß ich hinausspaziere,
+Gesteh ich's nur! daß ich hinausspaziere,
 Verbietet mir ein kleines Hindernis,
 Der Drudenfuß auf Eurer Schwelle-
 
@@ -1763,7 +1729,7 @@ Wenn das dich bannt, wie kamst du denn herein?
 Wie ward ein solcher Geist betrogen?
 
 MEPHISTOPHELES:
-Beschaut es recht!  es ist nicht gut gezogen:
+Beschaut es recht! es ist nicht gut gezogen:
 Der eine Winkel, der nach außen zu,
 Ist, wie du siehst, ein wenig offen.
 
@@ -1803,7 +1769,7 @@ So bleibe doch noch einen Augenblick,
 Um mir erst gute Mär zu sagen.
 
 MEPHISTOPHELES:
-Jetzt laß mich los!  ich komme bald zurück;
+Jetzt laß mich los! ich komme bald zurück;
 Dann magst du nach Belieben fragen.
 
 FAUST:
@@ -1897,7 +1863,7 @@ Liebender Sterne,
 Seliger Huld.
 
 MEPHISTOPHELES:
-Er schläft!  So recht, ihr luft'gen zarten Jungen!
+Er schläft! So recht, ihr luft'gen zarten Jungen!
 Ihr habt ihn treulich eingesungen!
 Für dies Konzert bin ich in eurer Schuld.
 Du bist noch nicht der Mann, den Teufel festzuhalten!
@@ -1914,41 +1880,35 @@ Befiehlt dir, dich hervor zu wagen
 Und diese Schwelle zu benagen,
 So wie er sie mit Öl betupft-
 Da kommst du schon hervorgehupft!
-Nur frisch ans Werk!  Die Spitze, die mich bannte,
+Nur frisch ans Werk! Die Spitze, die mich bannte,
 Sie sitzt ganz vornen an der Kante.
 Noch einen Biß, so ist's geschehn.-
 Nun, Fauste, träume fort, bis wir uns wiedersehn.
 
-FAUST (erwachend):
+FAUST:
 Bin ich denn abermals betrogen?
 Verschwindet so der geisterreiche Drang
 Daß mir ein Traum den Teufel vorgelogen,
 Und daß ein Pudel mir entsprang?
 
-
-
-Studierzimmer
-
-Faust.  Mephistopheles.
-
-
 FAUST:
-Es klopft?  Herein!  Wer will mich wieder plagen?
+Es klopft? Herein! Wer will mich wieder plagen?
 
 MEPHISTOPHELES:
 Ich bin's.
 
 FAUST:
-Herein!
+    Herein!
 
 MEPHISTOPHELES:
-Du mußt es dreimal sagen.
+        Du mußt es dreimal sagen.
 
 FAUST:
 Herein denn!
 
 MEPHISTOPHELES:
-So gefällst du mir.  Wir werden, hoff ich, uns vertragen;
+    So gefällst du mir.
+Wir werden, hoff ich, uns vertragen;
 Denn dir die Grillen zu verjagen,
 Bin ich als edler Junker hier,
 In rotem, goldverbrämtem Kleide,
@@ -1966,7 +1926,7 @@ Des engen Erdelebens fühlen.
 Ich bin zu alt, um nur zu spielen,
 Zu jung, um ohne Wunsch zu sein.
 Was kann die Welt mir wohl gewähren?
-Entbehren sollst du!  sollst entbehren!
+Entbehren sollst du! sollst entbehren!
 Das ist der ewige Gesang,
 Der jedem an die Ohren klingt,
 Den, unser ganzes Leben lang,
@@ -2034,11 +1994,11 @@ Wenn er zu müßigem Ergetzen
 Die Polster uns zurechte legt!
 Fluch sei dem Balsamsaft der Trauben!
 Fluch jener höchsten Liebeshuld!
-Fluch sei der Hoffnung!  Fluch dem Glauben,
+Fluch sei der Hoffnung! Fluch dem Glauben,
 Und Fluch vor allen der Geduld!
 
-GEISTERCHOR (unsichtbar):
-Weh!  weh!
+GEISTERCHOR:
+Weh! weh!
 Du hast sie zerstört
 Die schöne Welt,
 Mit mächtiger Faust;
@@ -2067,7 +2027,9 @@ Altklug sie raten!
 In die Welt weit,
 Aus der Einsamkeit
 Wo Sinnen und Säfte stocken,
-Wollen sie dich locken.  Hör auf, mit deinem Gram zu spielen,
+Wollen sie dich locken.
+
+Hör auf, mit deinem Gram zu spielen,
 Der, wie ein Geier, dir am Leben frißt;
 Die schlechteste Gesellschaft läßt dich fühlen,
 Daß du ein Mensch mit Menschen bist.
@@ -2089,7 +2051,7 @@ MEPHISTOPHELES:
 Dazu hast du noch eine lange Frist.
 
 FAUST:
-Nein, nein!  der Teufel ist ein Egoist
+Nein, nein! der Teufel ist ein Egoist
 Und tut nicht leicht um Gottes willen,
 Was einem andern nützlich ist.
 Sprich die Bedingung deutlich aus;
@@ -2151,11 +2113,12 @@ Das sei für mich der letzte Tag!
 Die Wette biet ich!
 
 MEPHISTOPHELES:
-Topp!
+    Topp!
 
 FAUST:
-Und Schlag auf Schlag!  Werd ich zum Augenblicke sagen:
-Verweile doch!  du bist so schön!
+        Und Schlag auf Schlag!
+Werd ich zum Augenblicke sagen:
+Verweile doch! du bist so schön!
 Dann magst du mich in Fesseln schlagen,
 Dann will ich gern zugrunde gehn!
 Dann mag die Totenglocke schallen,
@@ -2267,7 +2230,8 @@ FAUST:
 Allein ich will!
 
 MEPHISTOPHELES:
-Das läßt sich hören!  Doch nur vor einem ist mir bang:
+    Das läßt sich hören!
+Doch nur vor einem ist mir bang:
 Die Zeit ist kurz, die Kunst ist lang.
 Ich dächt, ihr ließet Euch belehren.
 Assoziiert Euch mit einem Poeten,
@@ -2309,7 +2273,7 @@ Mein guter Herr, Ihr seht die Sachen,
 Wie man die Sachen eben sieht;
 Wir müssen das gescheiter machen,
 Eh uns des Lebens Freude flieht.
-Was Henker!  freilich Händ und Füße
+Was Henker! freilich Händ und Füße
 Und Kopf und Hintern, die sind dein;
 Doch alles, was ich frisch genieße,
 Ist das drum weniger mein?
@@ -2317,7 +2281,7 @@ Wenn ich sechs Hengste zahlen kann,
 Sind ihre Kräfte nicht die meine?
 Ich renne zu und bin ein rechter Mann,
 Als hätt ich vierundzwanzig Beine.
-Drum frisch!  Laß alles Sinnen sein,
+Drum frisch! Laß alles Sinnen sein,
 Und grad mit in die Welt hinein!
 Ich sag es dir: ein Kerl, der spekuliert,
 Ist wie ein Tier, auf dürrer Heide
@@ -2328,7 +2292,8 @@ FAUST:
 Wie fangen wir das an?
 
 MEPHISTOPHELES:
-Wir gehen eben fort.  Was ist das für ein Marterort?
+    Wir gehen eben fort.
+Was ist das für ein Marterort?
 Was heißt das für ein Leben führen,
 Sich und die Jungens ennuyieren?
 Laß du das dem Herrn Nachbar Wanst!
@@ -2344,13 +2309,13 @@ MEPHISTOPHELES:
 Der arme Knabe wartet lange,
 Der darf nicht ungetröstet gehn.
 Komm, gib mir deinen Rock und Mütze;
-Die Maske muß mir köstlich stehn.  (Er kleidet sich um.)
+Die Maske muß mir köstlich stehn.
 Nun überlaß es meinem Witze!
 Ich brauche nur ein Viertelstündchen Zeit;
 Indessen mache dich zur schönen Fahrt bereit!
-(Faust ab.)
 
-MEPHISTOPHELES (in Fausts langem Kleide):
+
+MEPHISTOPHELES:
 Verachte nur Vernunft und Wissenschaft,
 Des Menschen allerhöchste Kraft,
 Laß nur in Blend- und Zauberwerken
@@ -2368,7 +2333,7 @@ Soll Speis und Trank vor gier'gen Lippen schweben;
 Er wird Erquickung sich umsonst erflehn,
 Und hätt er sich auch nicht dem Teufel übergeben,
 Er müßte doch zugrunde gehn!
-(Ein SCHÜLER tritt auf.)
+
 
 SCHÜLER:
 Ich bin allhier erst kurze Zeit,
@@ -2446,7 +2411,7 @@ Irrlichteliere hin und her.
 Dann lehret man Euch manchen Tag,
 Daß, was Ihr sonst auf einen Schlag
 Getrieben, wie Essen und Trinken frei,
-Eins!  Zwei!  Drei!  dazu nötig sei.
+Eins! Zwei! Drei! dazu nötig sei.
 Zwar ist's mit der Gedankenfabrik
 Wie mit einem Weber-Meisterstück,
 Wo ein Tritt tausend Fäden regt,
@@ -2464,7 +2429,7 @@ Sind aber keine Weber geworden.
 Wer will was Lebendigs erkennen und beschreiben,
 Sucht erst den Geist heraus zu treiben,
 Dann hat er die Teile in seiner Hand,
-Fehlt, leider!  nur das geistige Band.
+Fehlt, leider! nur das geistige Band.
 Encheiresin naturae nennt's die Chemie,
 Spottet ihrer selbst und weiß nicht wie.
 
@@ -2520,7 +2485,7 @@ Und rücken sacht von Ort zu Ort.
 Vernunft wird Unsinn, Wohltat Plage;
 Weh dir, daß du ein Enkel bist!
 Vom Rechte, das mit uns geboren ist,
-Von dem ist, leider!  nie die Frage.
+Von dem ist, leider! nie die Frage.
 
 SCHÜLER:
 Mein Abscheu wird durch Euch vermehrt.
@@ -2541,8 +2506,9 @@ Zum Tempel der Gewißheit ein.
 
 SCHÜLER:
 Doch ein Begriff muß bei dem Worte sein.
+
 MEPHISTOPHELES:
-Schon gut!  Nur muß man sich nicht allzu ängstlich quälen
+Schon gut! Nur muß man sich nicht allzu ängstlich quälen
 Denn eben wo Begriffe fehlen,
 Da stellt ein Wort zur rechten Zeit sich ein.
 Mit Worten läßt sich trefflich streiten,
@@ -2556,14 +2522,14 @@ Allem ich muß Euch noch bemühn.
 Wollt Ihr mir von der Medizin
 Nicht auch ein kräftig Wörtchen sagen?
 Drei Jahr ist eine kurze Zeit,
-Und, Gott!  das Feld ist gar zu weit.
+Und, Gott! das Feld ist gar zu weit.
 Wenn man einen Fingerzeig nur hat,
 Läßt sich's schon eher weiter fühlen.
 
-MEPHISTOPHELES (für sich):
+MEPHISTOPHELES:
 Ich bin des trocknen Tons nun satt,
 Muß wieder recht den Teufel spielen.
-(Laut.) Der Geist der Medizin ist leicht zu fassen;
+Der Geist der Medizin ist leicht zu fassen;
 Ihr durchstudiert die groß, und kleine Welt,
 Um es am Ende gehn zu lassen,
 Wie's Gott gefällt.
@@ -2591,7 +2557,7 @@ Wohl um die schlanke Hüfte frei,
 Zu sehn, wie fest geschnürt sie sei.
 
 SCHÜLER:
-Das sieht schon besser aus!  Man sieht doch, wo und wie.
+Das sieht schon besser aus! Man sieht doch, wo und wie.
 
 MEPHISTOPHELES:
 Grau, teurer Freund, ist alle Theorie,
@@ -2612,22 +2578,22 @@ Gönn Eure Gunst mir dieses Zeichen!
 
 MEPHISTOPHELES:
 Sehr wohl.
-(Er schreibt und gibt's.)
 
-SCHÜLER (liest):
+
+SCHÜLER:
 Eritis sicut Deus, scientes bonum et malum.
-(Macht's ehrerbietig zu und empfiehlt sich.)
+
 
 MEPHISTOPHELES:
 Folg nur dem alten Spruch und meiner Muhme, der Schlange,
 Dir wird gewiß einmal bei deiner Gottähnlichkeit bange!
-(Faust tritt auf.)
+
 
 FAUST:
 Wohin soll es nun gehn?
 
 MEPHISTOPHELES:
-Wohin es dir gefällt.
+    Wohin es dir gefällt.
 Wir sehn die kleine, dann die große Welt.
 Mit welcher Freude, welchem Nutzen
 Wirst du den Cursum durchschmarutzen!
@@ -2658,15 +2624,8 @@ Hebt uns behend von dieser Erde.
 Und sind wir leicht, so geht es schnell hinauf;
 Ich gratuliere dir zum neuen Lebenslauf!
 
-
-
-Auerbachs Keller in Leipzig
-
-Zeche lustiger Gesellen.
-
-
 FROSCH:
-Will keiner trinken?  keiner lachen?
+Will keiner trinken? keiner lachen?
 Ich will euch lehren Gesichter machen!
 Ihr seid ja heut wie nasses Stroh,
 Und brennt sonst immer lichterloh.
@@ -2675,11 +2634,11 @@ BRANDER:
 Das liegt an dir; du bringst ja nichts herbei,
 Nicht eine Dummheit, keine Sauerei.
 
-FROSCH (giesst ihm ein Glas Wein über den Kopf):
+FROSCH:
 Da hast du beides!
 
 BRANDER:
-Doppelt Schwein!
+    Doppelt Schwein!
 
 FROSCH:
 Ihr wollt es ja, man soll es sein!
@@ -2687,10 +2646,11 @@ Ihr wollt es ja, man soll es sein!
 SIEBEL:
 Zur Tür hinaus, er sich entzweit!
 Mit offner Brust singt Runda, sauft und schreit!
-Auf!  Holla!  Ho!
+Auf! Holla! Ho!
 
 ALTMAYER:
-Weh mir, ich bin verloren!  Baumwolle her!  der Kerl sprengt mir die Ohren.
+    Weh mir, ich bin verloren!
+Baumwolle her! der Kerl sprengt mir die Ohren.
 
 SIEBEL:
 Wenn das Gewölbe widerschallt,
@@ -2698,20 +2658,20 @@ Fühlt man erst recht des Basses Grundgewalt.
 
 FROSCH:
 So recht, hinaus mit dem, der etwas übel nimmt!
-A!  tara lara da!
+A! tara lara da!
 
 ALTMAYER:
-A!  tara lara da!
+A! tara lara da!
 
 FROSCH:
-Die Kehlen sind gestimmt.
-(Singt.)
+    Die Kehlen sind gestimmt.
+
 Das liebe Heil'ge Röm'sche Reich,
 Wie hält's nur noch zusammen?
 
 BRANDER:
-Ein garstig Lied!  Pfui!  ein politisch Lied
-Ein leidig Lied!  Dankt Gott mit jedem Morgen,
+Ein garstig Lied! Pfui! ein politisch Lied
+Ein leidig Lied! Dankt Gott mit jedem Morgen,
 Daß ihr nicht braucht fürs Röm'sche Reich zu sorgen!
 Ich halt es wenigstens für reichlichen Gewinn,
 Daß ich nicht Kaiser oder Kanzler bin.
@@ -2720,20 +2680,20 @@ Wir wollen einen Papst erwählen.
 Ihr wißt, welch eine Qualität
 Den Ausschlag gibt, den Mann erhöht.
 
-FROSCH (singt):
+FROSCH:
 Schwing dich auf, Frau Nachtigall,
 Grüß mir mein Liebchen zehentausendmal.
 
 SIEBEL:
-Dem Liebchen keinen Gruß!  ich will davon nichts hören!
+Dem Liebchen keinen Gruß! ich will davon nichts hören!
 
 FROSCH:
-Dem Liebchen Gruß und Kuß!  du wirst mir's nicht verwehren!
+Dem Liebchen Gruß und Kuß! du wirst mir's nicht verwehren!
 
-(Singt.)
-Riegel auf!  in stiller Nacht.
-Riegel auf!  der Liebste wacht.
-Riegel zu!  des Morgens früh.
+
+Riegel auf! in stiller Nacht.
+Riegel auf! der Liebste wacht.
+Riegel zu! des Morgens früh.
 
 SIEBEL:
 Ja, singe, singe nur und lob und rühme sie!
@@ -2748,15 +2708,15 @@ Ist für die Dirne viel zu gut.
 Ich will von keinem Gruße wissen,
 Als ihr die Fenster eingeschmissen
 
-BRANDER (auf den Tisch schlagend):
-Paßt auf!  paßt auf!  Gehorchet mir!
+BRANDER:
+Paßt auf! paßt auf! Gehorchet mir!
 Ihr Herrn, gesteht, ich weiß zu leben
 Verliebte Leute sitzen hier,
 Und diesen muß, nach Standsgebühr,
 Zur guten Nacht ich was zum besten geben.
-Gebt acht!  Ein Lied vom neusten Schnitt!
+Gebt acht! Ein Lied vom neusten Schnitt!
 Und singt den Rundreim kräftig mit!
-(Er singt.)
+
 Es war eine Ratt im Kellernest,
 Lebte nur von Fett und Butter,
 Hatte sich ein Ränzlein angemäst't,
@@ -2765,7 +2725,7 @@ Die Köchin hatt ihr Gift gestellt;
 Da ward's so eng ihr in der Welt,
 Als hätte sie Lieb im Leibe.
 
-CHORUS (jauchzend):
+CHORUS:
 Als hätte sie Lieb im Leibe.
 
 BRANDER:
@@ -2786,7 +2746,7 @@ Der Küche zugelaufen,
 Fiel an den Herd und zuckt, und lag,
 Und tät erbärmlich schnaufen.
 Da lachte die Vergifterin noch:
-Ha!  sie pfeift auf dem letzten Loch,
+Ha! sie pfeift auf dem letzten Loch,
 Als hätte sie Lieb im Leibe.
 
 CHORUS:
@@ -2805,7 +2765,7 @@ Der Schmerbauch mit der kahlen Platte!
 Das Unglück macht ihn zahm und mild;
 Er sieht in der geschwollnen Ratte
 Sein ganz natürlich Ebenbild
-(Faust und Mephistopheles treten auf.)
+
 
 MEPHISTOPHELES:
 Ich muß dich nun vor allen Dingen
@@ -2825,14 +2785,14 @@ Man sieht's an ihrer wunderlichen Weise;
 Sie sind nicht eine Stunde hier.
 
 FROSCH:
-Wahrhaftig, du hast recht!  Mein Leipzig lob ich mir!
+Wahrhaftig, du hast recht! Mein Leipzig lob ich mir!
 Es ist ein klein Paris, und bildet seine Leute.
 
 SIEBEL:
 Für was siehst du die Fremden an?
 
 FROSCH:
-Laß mich nur gehn!  Bei einem vollen Glase
+Laß mich nur gehn! Bei einem vollen Glase
 Zieh ich, wie einen Kinderzahn,
 Den Burschen leicht die Würmer aus der Nase.
 Sie scheinen mir aus einem edlen Haus,
@@ -2845,9 +2805,9 @@ ALTMAYER:
 Vielleicht.
 
 FROSCH:
-Gib acht, ich schraube sie!
+    Gib acht, ich schraube sie!
 
-MEPHISTOPHELES (zu Faust):
+MEPHISTOPHELES:
 Den Teufel spürt das Völkchen nie,
 Und wenn er sie beim Kragen hätte.
 
@@ -2855,8 +2815,8 @@ FAUST:
 Seid uns gegrüßt, ihr Herrn!
 
 SIEBEL:
-Viel Dank zum Gegengruß.
-(Leise, Mephistopheles von der Seite ansehend.)
+    Viel Dank zum Gegengruß.
+
 Was hinkt der Kerl auf einem Fuß?
 
 MEPHISTOPHELES:
@@ -2876,13 +2836,13 @@ Heut sind wir ihn vorbeigereist!
 Wir haben ihn das letztemal gesprochen.
 Von seinen Vettern wußt er viel zu sagen,
 Viel Grüße hat er uns an jeden aufgetragen.
-(Er neigt sich gegen Frosch.)
 
-ALTMAYER (leise):
-Da hast du's!  der versteht's!
+
+ALTMAYER:
+Da hast du's! der versteht's!
 
 SIEBEL:
-Ein pfiffiger Patron!
+    Ein pfiffiger Patron!
 
 FROSCH:
 Nun, warte nur, ich krieg ihn schon!
@@ -2897,13 +2857,13 @@ FROSCH:
 Seid Ihr wohrgar ein Virtuos?
 
 MEPHISTOPHELES:
-O nein!  die Kraft ist schwach, allein die Lust ist groß.
+O nein! die Kraft ist schwach, allein die Lust ist groß.
 
 ALTMAYER:
 Gebt uns ein Lied!
 
 MEPHISTOPHELES:
-Wenn ihr begehrt, die Menge.
+    Wenn ihr begehrt, die Menge.
 
 SIEBEL:
 Nur auch ein nagelneues Stück!
@@ -2911,15 +2871,15 @@ Nur auch ein nagelneues Stück!
 MEPHISTOPHELES:
 Wir kommen erst aus Spanien zurück,
 Dem schönen Land des Weins und der Gesänge.
-(Singt).
+.
 Es war einmal ein König,
 Der hatt einen großen Floh-
 
 FROSCH:
-Horcht!  Einen Froh!  Habt ihr das wohl gefaßt?
+Horcht! Einen Froh! Habt ihr das wohl gefaßt?
 Ein Floh ist mir ein saubrer Gast.
 
-MEPHISTOPHELES (singt):
+MEPHISTOPHELES:
 Es war einmal ein König
 Der hatt einen großen Floh,
 Den liebt, er gar nicht wenig,
@@ -2954,12 +2914,12 @@ Und weg sie jucken nicht.
 Wir knicken und ersticken
 Doch gleich, wenn einer sticht.
 
-CHORUS (jauchzend):
+CHORUS:
 Wir knicken und ersticken
 Doch gleich, wenn einer sticht.
 
 FROSCH:
-Bravo!  Bravo!  Das war schön!
+Bravo! Bravo! Das war schön!
 
 SIEBEL:
 So soll es jedem Floh ergehn!
@@ -2968,7 +2928,7 @@ BRANDER:
 Spitzt die Finger und packt sie fein!
 
 ALTMAYER:
-Es lebe die Freiheit!  Es lebe der Wein!
+Es lebe die Freiheit! Es lebe der Wein!
 
 MEPHISTOPHELES:
 Ich tränke gern ein Glas, die Freiheit hoch zu ehren,
@@ -2983,7 +2943,7 @@ Sonst gäb ich diesen werten Gästen
 Aus unserm Keller was zum besten.
 
 SIEBEL:
-Nur immer her!  ich nehm's auf mich.
+Nur immer her! ich nehm's auf mich.
 
 FROSCH:
 Schafft Ihr ein gutes Glas, so wollen wir Euch loben.
@@ -2991,58 +2951,58 @@ Nur gebt nicht gar zu kleine Proben
 Denn wenn ich judizieren soll,
 Verlang ich auch das Maul recht voll.
 
-ALTMAYER (leise):
+ALTMAYER:
 Sie sind vom Rheine, wie ich spüre.
 
 MEPHISTOPHELES:
 Schafft einen Bohrer an!
 
 BRANDER:
-Was soll mit dem geschehn?  Ihr habt doch nicht die Fässer vor der Türe?
+    Was soll mit dem geschehn?
+Ihr habt doch nicht die Fässer vor der Türe?
 
 ALTMAYER:
 Dahinten hat der Wirt ein Körbchen Werkzeug stehn.
 
-MEPHISTOPHELES (nimmt den Bohrer.  Zu Frosch):
+MEPHISTOPHELES:
 Nun sagt, was wünschet Ihr zu schmecken?
 
 FROSCH:
-Wie meint Ihr das?  Habt Ihr so mancherlei?
+Wie meint Ihr das? Habt Ihr so mancherlei?
 
 MEPHISTOPHELES:
 Ich stell es einem jeden frei.
 
-ALTMAYER (zu Frosch):
-Aha!  du fängst schon an, die Lippen abzulecken.
+ALTMAYER:
+Aha! du fängst schon an, die Lippen abzulecken.
 
 FROSCH:
-Gut!  wenn ich wählen soll, so will ich Rheinwein haben.
+Gut! wenn ich wählen soll, so will ich Rheinwein haben.
 Das Vaterland verleiht die allerbesten Gaben.
 
-MEPHISTOPHELES (indem er an dem Platz, wo Frosch sitzt, ein Loch in den
-Tischrand bohrt):
+MEPHISTOPHELES:
 Verschafft ein wenig Wachs, die Pfropfen gleich zu machen!
 
 ALTMAYER:
 Ach, das sind Taschenspielersachen.
 
-MEPHISTOPHELES (zu Brander):
+MEPHISTOPHELES:
 Und Ihr?
 
 BRANDER:
-Ich will Champagner Wein Und recht moussierend soll er sein!
-(Mephistopheles bohrt; einer hat indessen die Wachspfropfen gemacht
-und verstopft.)
+    Ich will Champagner Wein,
+Und recht moussierend soll er sein!
+
 Man kann nicht stets das Fremde meiden
 Das Gute liegt uns oft so fern.
 Ein echter deutscher Mann mag keinen Franzen leiden,
 Doch ihre Weine trinkt er gern.
 
-SIEBEL (indem sich Mephistopheles seinem Platze nähert):
+SIEBEL:
 Ich muß gestehn, den sauern mag ich nicht,
 Gebt mir ein Glas vom echten süßen!
 
-MEPHISTOPHELES (bohrt):
+MEPHISTOPHELES:
 Euch soll sogleich Tokayer fließen.
 
 ALTMAYER:
@@ -3050,32 +3010,31 @@ Nein, Herren, seht mir ins Gesicht!
 Ich seh es ein, ihr habt uns nur zum besten.
 
 MEPHISTOPHELES:
-Ei!  Ei!  Mit solchen edlen Gästen
+Ei! Ei! Mit solchen edlen Gästen
 Wär es ein bißchen viel gewagt.
-Geschwind!  Nur grad heraus gesagt!
+Geschwind! Nur grad heraus gesagt!
 Mit welchem Weine kann ich dienen?
 
 ALTMAYER:
-Mit jedem!  Nur nicht lang gefragt.
-(Nachdem die Löcher alle gebohrt und verstopft sind.)
+Mit jedem! Nur nicht lang gefragt.
 
-MEPHISTOPHELES (mit seltsamen Gebärden):
+
+MEPHISTOPHELES:
 Trauben trägt der Weinstock!
 Hörner der Ziegenbock;
 Der Wein ist saftig, Holz die Reben,
 Der hölzerne Tisch kann Wein auch geben.
 Ein tiefer Blick in die Natur!
-Hier ist ein Wunder, glaubet nur!  Nun zieht die Pfropfen und genießt!
+Hier ist ein Wunder, glaubet nur! Nun zieht die Pfropfen und genießt!
 
-ALLE (indem sie die Pfropfen ziehen und jedem der verlangte Wein ins Glas
-läuft):
+ALLE:
 O schöner Brunnen, der uns fließt!
 
 MEPHISTOPHELES:
 Nur hütet euch, daß ihr mir nichts vergießt!
-(Sie trinken wiederholt.)
 
-ALLE (singen):
+
+ALLE:
 Uns ist ganz kannibalisch wohl,
 Als wie fünfhundert Säuen!
 
@@ -3089,17 +3048,16 @@ MEPHISTOPHELES:
 Gib nur erst acht, die Bestialität
 Wird sich gar herrlich offenbaren.
 
-SIEBEL (trinkt unvorsichtig, der Wein fließt auf die Erde und wird zur
-Flamme):
-Helft!  Feuer!  helft!  Die Hölle brennt!
+SIEBEL:
+Helft! Feuer! helft! Die Hölle brennt!
 
-MEPHISTOPHELES (die Flamme besprechend):
+MEPHISTOPHELES:
 Sei ruhig, freundlich Element!
-(Zu den Gesellen.)
+
 Für diesmal war es nur ein Tropfen Fegefeuer.
 
 SIEBEL:
-Was soll das sein?  Wart!  Ihr bezahlt es teuer!
+Was soll das sein? Wart! Ihr bezahlt es teuer!
 Es scheinet, daß Ihr uns nicht kennt.
 
 FROSCH:
@@ -3109,64 +3067,62 @@ ALTMAYER:
 Ich dächt, wir hießen ihn ganz sachte seitwärts gehn.
 
 SIEBEL:
-Was, Herr?  Er will sich unterstehn,
+Was, Herr? Er will sich unterstehn,
 Und hier sein Hokuspokus treiben?
 
 MEPHISTOPHELES:
 Still, altes Weinfaß!
 
 SIEBEL:
-Besenstiel!  Du willst uns gar noch grob begegnen?
+    Besenstiel!
+Du willst uns gar noch grob begegnen?
 
 BRANDER:
 Wart nur, es sollen Schläge regnen!
 
-ALTMAYER (zieht einen Pfropf aus dem Tisch, es springt ihm Feuer entgegen):
-
-Ich brenne!  ich brenne!
+ALTMAYER:
+Ich brenne! ich brenne!
 
 SIEBEL:
+    Zauberei!
+Stoßt zu! der Kerl ist vogelfrei!
 
-Zauberei!
-Stoßt zu!  der Kerl ist vogelfrei!
-(Sie ziehen die Messer und gehn auf Mephistopheles los.)
 
-MEPHISTOPHELES (mit ernsthafter Gebärde):
+MEPHISTOPHELES:
 Falsch Gebild und Wort
 Verändern Sinn und Ort!
 Seid hier und dort!
-(Sie stehn erstaunt und sehn einander an.)
+
 
 ALTMAYER:
-Wo bin ich?  Welches schöne Land!
+Wo bin ich? Welches schöne Land!
 
 FROSCH:
-Weinberge!  Seh ich recht?
+Weinberge! Seh ich recht?
 
 SIEBEL:
-Und Trauben gleich zur Hand!
+    Und Trauben gleich zur Hand!
 
 BRANDER:
 Hier unter diesem grünen Laube,
-Seht, welch ein Stock!  Seht, welche Traube!
-(Er faßt Siebeln bei der Nase.  Die andern tun es wechselseitig und heben
-die Messer.)
+Seht, welch ein Stock! Seht, welche Traube!
 
-MEPHISTOPHELES (wie oben):
+
+MEPHISTOPHELES:
 Irrtum, laß los der Augen Band!
 Und merkt euch, wie der Teufel spaße.
-(Er verschwindet mit Faust, die Gesellen fahren auseinander.
+
 
 SIEBEL:
 Was gibt s?
 
 ALTMAYER:
-Wie?
+    Wie?
 
 FROSCH:
-War das deine Nase?
+        War das deine Nase?
 
-BRANDER (zu Siebel):
+BRANDER:
 Und deine hab ich in der Hand!
 
 ALTMAYER:
@@ -3177,15 +3133,15 @@ FROSCH:
 Nein, sagt mir nur, was ist geschehn?
 
 FROSCH:
-Wo ist der Kerl?  Wenn ich ihn spüre,
+Wo ist der Kerl? Wenn ich ihn spüre,
 Er soll mir nicht lebendig gehn!
 
 ALTMAYER:
 Ich hab ihn selbst hinaus zur Kellertüre-
 Auf einem Fasse reiten sehn--
 Es liegt mir bleischwer in den Füßen.
-(Sich nach dem Tische wendend.)
-Mein!  Sollte wohl der Wein noch fließen?
+
+Mein! Sollte wohl der Wein noch fließen?
 
 SIEBEL:
 Betrug war alles, Lug und Schein.
@@ -3198,19 +3154,6 @@ Aber wie war es mit den Trauben?
 
 ALTMAYER:
 Nun sag mir eins, man soll kein Wunder glauben!
-
-
-
-Hexenküche.
-
-
-Auf einem niedrigen Herd steht ein großer Kessel über dem Feuer.  In dem
-Dampfe, der davon in die Höhe steigt, zeigen sich verschiedene Gestalten.
-Eine Meerkatze sitzt bei dem Kessel und schäumt ihn und sorgt, daß er nicht
-überläuft.  Der Meerkater mit den Jungen sitzt darneben und wärmt sich.
-Wände und Decke sind mit dem seltsamsten Hexenhausrat geschmückt.
-
-Faust.  Mephistopheles.
 
 FAUST:
 Mir widersteht das tolle Zauberwesen!
@@ -3234,7 +3177,8 @@ FAUST:
 Ich will es wissen.
 
 MEPHISTOPHELES:
-Gut!  Ein Mittel, ohne Geld Und Arzt und Zauberei zu haben:
+    Gut! Ein Mittel, ohne Geld
+Und Arzt und Zauberei zu haben:
 Begib dich gleich hinaus aufs Feld,
 Fang an zu hacken und zu graben
 Erhalte dich und deinen Sinn
@@ -3268,10 +3212,10 @@ Und alles, was dazu gehört,
 Es sind gar wunderbare Sachen!
 Der Teufel hat sie's zwar gelehrt;
 Allein der Teufel kann's nicht machen.
-(Die Tiere erblickend.)
+
 Sieh, welch ein zierliches Geschlecht!
-Das ist die Magd!  das ist der Knecht!
-(Zu den Tieren.)
+Das ist die Magd! das ist der Knecht!
+
 Es scheint, die Frau ist nicht zu Hause?
 
 DIE TIERE:
@@ -3285,7 +3229,7 @@ Wie lange pflegt sie wohl zu schwärmen?
 DIE TIERE:
 So lange wir uns die Pfoten wärmen.
 
-MEPHISTOPHELES. (zu Faust):
+MEPHISTOPHELES.:
 Wie findest du die zarten Tiere?
 
 FAUST:
@@ -3294,7 +3238,7 @@ So abgeschmackt, als ich nur jemand sah!
 MEPHISTOPHELES:
 Nein, ein Discours wie dieser da
 Ist grade der, den ich am liebsten führe!
-(zu den Tieren.)
+
 So sagt mir doch, verfluchte Puppen,
 Was quirlt ihr in dem Brei herum?
 
@@ -3304,7 +3248,7 @@ Wir kochen breite Bettelsuppen.
 MEPHISTOPHELES:
 Da habt ihr ein groß Publikum.
 
-DER KATER (macht sich herbei und schmeichelt dem Mephistopheles):
+DER KATER:
 O würfle nur gleich,
 Und mache mich reich,
 Und laß mich gewinnen!
@@ -3315,8 +3259,7 @@ So wär ich bei Sinnen.
 MEPHISTOPHELES:
 Wie glücklich würde sich der Affe schätzen,
 Könnt er nur auch ins Lotto setzen!
-(Indessen haben die jungen Meerkätzchen mit einer großen Kugel gespielt und
-rollen sie hervor.)
+
 
 DER KATER:
 Das ist die Welt;
@@ -3337,18 +3280,17 @@ Es gibt Scherben.
 MEPHISTOPHELES:
 Was soll das Sieb?
 
-DER KATER (holt es herunter):
+DER KATER:
 Wärst du ein Dieb,
 Wollt ich dich gleich erkennen.
-(Er lauft zur Kätzin und läßt sie durchsehen.)
 Sieh durch das Sieb!
 Erkennst du den Dieb,
 Und darfst ihn nicht nennen?
 
-MEPHISTOPHELES (sich dem Feuer nähernd):
+MEPHISTOPHELES:
 Und dieser Topf?
 
-KATER UND KäTZIN:
+KATER UND KÄTZIN:
 Der alberne Tropf!
 Er kennt nicht den Topf,
 Er kennt nicht den Kessel!
@@ -3359,11 +3301,9 @@ Unhöfliches Tier!
 DER KATER:
 Den Wedel nimm hier,
 Und setz dich in Sessel!
-(Er nötigt den Mephistopheles zu sitzen.)
 
-FAUST (welcher diese Zeit über vor einem Spiegel gestanden, sich ihm bald
-genähert, bald sich von ihm entfernt hat):
-Was seh ich?  Welch ein himmlisch Bild
+FAUST:
+Was seh ich? Welch ein himmlisch Bild
 Zeigt sich in diesem Zauberspiegel!
 O Liebe, leihe mir den schnellsten deiner Flügel,
 Und führe mich in ihr Gefild!
@@ -3384,28 +3324,21 @@ Für diesmal sieh dich immer satt;
 Ich weiß dir so ein Schätzchen auszuspüren,
 Und selig, wer das gute Schicksal hat,
 Als Bräutigam sie heim zu führen!
-(Faust sieht immerfort in den Spiegel.  Mephistopheles, sich in dem Sessel
-dehnend und mit dem Wedel spielend, fährt fort zu sprechen.)
-
 Hier sitz ich wie der König auf dem Throne,
 Den Zepter halt ich hier, es fehlt nur noch die Krone.
 
-DIE TIERE (welche bisher allerlei wunderliche Bewegungen durcheinander
-gemacht haben, bringen dem Mephistopheles eine Krone mit großem Geschrei):
+DIE TIERE:
 O sei doch so gut,
 Mit Schweiß und mit Blut
 Die Krone zu leimen!
-(Sie gehn ungeschickt mit der Krone um und zerbrechen sie in zwei Stücke,
-mit welchen sie herumspringen.)
-
 Nun ist es geschehn!
 Wir reden und sehn,
 Wir hören und reimen-
 
-FAUST (gegen den Spiegel):
-Weh mir!  ich werde schier verrückt.
+FAUST:
+Weh mir! ich werde schier verrückt.
 
-MEPHISTOPHELES (auf die Tiere deutend):
+MEPHISTOPHELES:
 Nun fängt mir an fast selbst der Kopf zu schwanken.
 
 DIE TIERE:
@@ -3413,43 +3346,38 @@ Und wenn es uns glückt,
 Und wenn es sich schickt,
 So sind es Gedanken!
 
-FAUST (wie oben):
+FAUST:
 Mein Busen fängt mir an zu brennen!
 Entfernen wir uns nur geschwind!
 
-MEPHISTOPHELES (in obiger Stellung):
+MEPHISTOPHELES:
 Nun, wenigstens muß man bekennen,
 Daß es aufrichtige Poeten sind.
-(Der Kessel, welchen die Katzin bisher außer acht gelassen, fängt an
-überzulaufen, es entsteht eine große Flamme, welche zum Schornstein hinaus
-schlägt.  Die Hexe kommt durch die Flamme mit entsetzlichem Geschrei
-herunter gefahren.)
+
 
 DIE HEXE:
-Au!  Au!  Au!  Au!
-Verdammtes Tier!  verfluchte Sau!
+Au! Au! Au! Au!
+Verdammtes Tier! verfluchte Sau!
 Versäumst den Kessel, versengst die Frau!
 Verfluchtes Tier!
-(Faust und Mephistopheles erblickend.)
+
 Was ist das hier?
 Wer seid ihr hier?
 Was wollt ihr da?
 Wer schlich sich ein?
 Die Feuerpein
 Euch ins Gebein!
-(Sie fahrt mit dem Schaumlöffel in den Kessel und spritzt Flammen nach
-Faust, Mephistopheles und den Tieren.  Die Tiere winseln.)
 
-MEPHISTOPHELES (welcher den Wedel, den er in der Hand hält, umkehrt und
-unter die Gläser und Töpfe schlägt):
-Entzwei!  entzwei!
+
+MEPHISTOPHELES:
+Entzwei! entzwei!
 Da liegt der Brei!
 Da liegt das Glas!
 Es ist nur Spaß,
 Der Takt, du Aas,
 Zu deiner Melodei.
-(Indem die Hexe voll Grimm und Entsetzen zurücktritt.)
-Erkennst du mich?  Gerippe!  Scheusal du!
+
+Erkennst du mich? Gerippe! Scheusal du!
 Erkennst du deinen Herrn und Meister?
 Was hält mich ab, so schlag ich zu,
 Zerschmettre dich und deine Katzengeister!
@@ -3476,7 +3404,7 @@ Der würde mir bei Leuten schaden;
 Darum bedien ich mich, wie mancher junge Mann,
 Seit vielen Jahren falscher Waden.
 
-DIE HEXE (tanzend):
+DIE HEXE:
 Sinn und Verstand verlier ich schier,
 Seh ich den Junker Satan wieder hier!
 
@@ -3484,7 +3412,7 @@ MEPHISTOPHELES:
 Den Namen, Weib, verbitt ich mir!
 
 DIE HEXE:
-Warum?  Was hat er Euch getan?
+Warum? Was hat er Euch getan?
 
 MEPHISTOPHELES:
 Er ist schon lang ins Fabelbuch geschrieben;
@@ -3494,13 +3422,13 @@ Du nennst mich Herr Baron, so ist die Sache gut;
 Ich bin ein Kavalier, wie andre Kavaliere.
 Du zweifelst nicht an meinem edlen Blut;
 Sieh her, das ist das Wappen, das ich führe!
-(Er macht eine unanständige Gebärde.)
 
-DIE HEXE (lacht unmäßig):
-Ha!  Ha!  Das ist in Eurer Art!
+
+DIE HEXE:
+Ha! Ha! Das ist in Eurer Art!
 Ihr seid ein Schelm, wie Ihr nur immer wart!
 
-MEPHISTOPHELES (zu Faust):
+MEPHISTOPHELES:
 Mein Freund, das lerne wohl verstehn!
 Dies ist die Art, mit Hexen umzugehn.
 
@@ -3513,11 +3441,11 @@ Doch muß ich Euch ums ältste bitten;
 Die Jahre doppeln seine Kraft.
 
 DIE HEXE:
-Gar gern!  Hier hab ich eine Flasche,
+Gar gern! Hier hab ich eine Flasche,
 Aus der ich selbst zuweilen nasche,
 Die auch nicht mehr im mindsten stinkt;
 Ich will euch gern ein Gläschen geben.
-(Leise.)
+
 Doch wenn es dieser Mann unvorbereitet trinkt
 So kann er, wißt Ihr wohl, nicht eine Stunde leben.
 
@@ -3526,26 +3454,22 @@ Es ist ein guter Freund, dem es gedeihen soll;
 Ich gönn ihm gern das Beste deiner Küche.
 Zieh deinen Kreis, sprich deine Sprüche,
 Und gib ihm eine Tasse voll!
-(Die Hexe, mit seltsamen Gebärden, zieht einen Kreis und stellt wunderbare
-Sachen hinein; indessen fangen die Gläser an zu klingen, die Kessel zu
-tönen, und machen Musik.  Zuletzt bringt sie ein großes Buch, stellt die
-Meerkatzen in den Kreis, die ihr zum Pult dienen und die Fackel halten
-müssen.  Sie winkt Fausten, zu ihr zu treten.)
 
-FAUST (zu Mephistopheles):
+
+FAUST:
 Nein, sage mir, was soll das werden?
 Das tolle Zeug, die rasenden Gebärden,
 Der abgeschmackteste Betrug,
 Sind mir bekannt, verhaßt genug.
 
 MEPHISTOPHELES:
-Ei Possen!  Das ist nur zum Lachen;
+Ei Possen! Das ist nur zum Lachen;
 Sei nur nicht ein so strenger Mann!
 Sie muß als Arzt ein Hokuspokus machen,
 Damit der Saft dir wohl gedeihen kann.
-(Er nötigt Fausten, in den Kreis zu treten.)
 
-DIE HEXE (mit großer Emphase fängt an, aus dem Buche zu deklamieren):
+
+DIE HEXE:
 Du mußt verstehn!
 Aus Eins mach Zehn,
 Und Zwei laß gehn,
@@ -3578,7 +3502,7 @@ Wer will sich mit den Narrn befassen?
 Gewöhnlich glaubt der Mensch, wenn er nur Worte hört,
 Es müsse sich dabei doch auch was denken lassen.
 
-DIE HEXE (fährt fort):
+DIE HEXE:
 Die hohe Kraft
 Der Wissenschaft,
 Der ganzen Welt verborgen!
@@ -3599,29 +3523,26 @@ Die Schale rasch bis an den Rand hinan;
 Denn meinem Freund wird dieser Trunk nicht schaden:
 Er ist ein Mann von vielen Graden,
 Der manchen guten Schluck getan.
-(Die Hexe, mit vielen Zeremonien, schenkt den Trank in eine Schale,
-wie sie Faust an den Mund bringt, entsteht eine leichte Flamme.)
 
-Nur frisch hinunter!  Immer zu!
+
+Nur frisch hinunter! Immer zu!
 Es wird dir gleich das Herz erfreuen.
 Bist mit dem Teufel du und du,
 Und willst dich vor der Flamme scheuen?
-(Die Hexe löst den Kreis.  Faust tritt heraus.)
-
-Nun frisch hinaus!  Du darfst nicht ruhn.
+Nun frisch hinaus! Du darfst nicht ruhn.
 
 DIE HEXE:
 Mög Euch das Schlückchen wohl behagen!
 
-MEPHISTOPHELES (zur Hexe):
+MEPHISTOPHELES:
 Und kann ich dir was zu Gefallen tun,
 So darfst du mir's nur auf Walpurgis sagen.
 
 DIE HEXE:
-Hier ist ein Lied!  wenn Ihr's zuweilen singt,
+Hier ist ein Lied! wenn Ihr's zuweilen singt,
 So werdet Ihr besondre Wirkung spüren.
 
-MEPHISTOPHELES (zu Faust):
+MEPHISTOPHELES:
 Komm nur geschwind und laß dich führen;
 Du mußt notwendig transpirieren,
 Damit die Kraft durch Inn- und Äußres dringt.
@@ -3634,18 +3555,10 @@ Laß mich nur schnell noch in den Spiegel schauen!
 Das Frauenbild war gar zu schön!
 
 MEPHISTOPHELES:
-Nein!  Nein!  Du sollst das Muster aller Frauen
+Nein! Nein! Du sollst das Muster aller Frauen
 Nun bald leibhaftig vor dir sehn.
-(Leise.)
-
 Du siehst, mit diesem Trank im Leibe,
 Bald Helenen in jedem Weibe.
-
-
-
-Straße (I)
-
-Faust.  Margarete vorübergehend.
 
 FAUST:
 Mein schönes Fräulein, darf ich wagen,
@@ -3654,7 +3567,7 @@ Meinen Arm und Geleit Ihr anzutragen?
 MARGARETE:
 Bin weder Fräulein, weder schön,
 Kann ungeleitet nach Hause gehn.
-(Sie macht sich los und ab.)
+
 
 FAUST:
 Beim Himmel, dieses Kind ist schön!
@@ -3667,7 +3580,8 @@ Wie sie die Augen niederschlägt,
 Hat tief sich in mein Herz geprägt;
 Wie sie kurz angebunden war,
 Das ist nun zum Entzücken gar!
-(Mephistopheles tritt auf.)
+
+
 
 FAUST:
 Hör, du mußt mir die Dirne schaffen!
@@ -3676,10 +3590,10 @@ MEPHISTOPHELES:
 Nun, welche?
 
 FAUST:
-Sie ging just vorbei.
+    Sie ging just vorbei.
 
 MEPHISTOPHELES:
-Da die?  Sie kam von ihrem Pfaffen,
+Da die? Sie kam von ihrem Pfaffen,
 Der sprach sie aller Sünden frei
 Ich schlich mich hart am Stuhl vorbei,
 Es ist ein gar unschuldig Ding,
@@ -3747,10 +3661,11 @@ Wollen wir keinen Augenblick verlieren,
 Will Euch noch heut in ihr Zimmer führen.
 
 FAUST:
-Und soll sie sehn?  sie haben?
+Und soll sie sehn? sie haben?
 
 MEPHISTOPHELES:
-Nein!  Sie wird bei einer Nachbarin sein.
+    Nein!
+Sie wird bei einer Nachbarin sein.
 Indessen könnt Ihr ganz allein
 An aller Hoffnung künft'ger Freuden
 In ihrem Dunstkreis satt Euch weiden.
@@ -3759,44 +3674,41 @@ FAUST:
 Können wir hin?
 
 MEPHISTOPHELES:
-Es ist noch zu früh.
+    Es ist noch zu früh.
 FAUST:
 Sorg du mir für ein Geschenk für sie!
-(Ab.)
+
 
 MEPHISTOPHELES:
-Gleich schenken?  Das ist brav!  Da wird er reüssieren!
+Gleich schenken? Das ist brav! Da wird er reüssieren!
 Ich kenne manchen schönen Platz
 Und manchen altvergrabnen Schatz;
 Ich muß ein bißchen revidieren.
-(Ab.)
 
 
 
 
-Abend.  Ein kleines reinliches Zimmer
 
-Margarete ihre Zöpfe flechtend und aufbindend.
-
+MARGARETE:
 Ich gäb was drum, wenn ich nur wüßt,
 Wer heut der Herr gewesen ist!
 Er sah gewiß recht wacker aus
 Und ist aus einem edlen Haus;
 Das konnt ich ihm an der Stirne lesen-
 Er wär auch sonst nicht so keck gewesen.
-(Ab.)
+
 
 MEPHISTOPHELES:
 Herein, ganz leise, nur herein!
 
-FAUST (nach einigem Stillschweigen):
+FAUST:
 Ich bitte dich, laß mich allein!
 
-MEPHISTOPHELES (herumspürend):
+MEPHISTOPHELES:
 Nicht jedes Mädchen hält so rein.
-(Ab.)
 
-FAUST (rings aufschauend):
+
+FAUST:
 Willkommen, süßer Dämmerschein,
 Der du dies Heiligtum durchwebst!
 Ergreif mein Herz, du süße Liebespein,
@@ -3805,11 +3717,11 @@ Wie atmet rings Gefühl der Stille,
 Der Ordnung, der Zufriedenheit!
 In dieser Armut welche Fülle!
 In diesem Kerker welche Seligkeit!
-(Er wirft sich auf den ledernen Sessel am Bette.)
+
 
 O nimm mich auf, der du die Vorwelt schon
 Bei Freud und Schmerz im offnen Arm empfangen!
-Wie oft, ach!  hat an diesem Väterthron
+Wie oft, ach! hat an diesem Väterthron
 Schon eine Schar von Kindern rings gehangen!
 Vielleicht hat, dankbar für den heil'gen Christ
 Mein Liebchen hier, mit vollen Kinderwangen,
@@ -3819,23 +3731,21 @@ Der Füll und Ordnung um mich säuseln,
 Der mütterlich dich täglich unterweist
 Den Teppich auf den Tisch dich reinlich breiten heißt,
 Sogar den Sand zu deinen Füßen kräuseln.
-O liebe Hand!  so göttergleich!
+O liebe Hand! so göttergleich!
 Die Hütte wird durch dich ein Himmelreich.
-Und hier!
-(Er hebt einen Bettvorhang auf.)
-
-Was faßt mich für ein Wonnegraus!  Hier möcht ich volle Stunden säumen.
+Und hier! Was faßt mich für ein Wonnegraus!
+Hier möcht ich volle Stunden säumen.
 Natur, hier bildetest in leichten Träumen
 Den eingebornen Engel aus!
-Hier lag das Kind!  mit warmem Leben
+Hier lag das Kind! mit warmem Leben
 Den zarten Busen angefüllt,
 Und hier mit heilig reinem Weben
 Entwirkte sich das Götterbild!
 
-Und du!  Was hat dich hergeführt?
+Und du! Was hat dich hergeführt?
 Wie innig fühl ich mich gerührt!
-Was willst du hier?  Was wird das Herz dir schwer?
-Armsel'ger Faust!  ich kenne dich nicht mehr.
+Was willst du hier? Was wird das Herz dir schwer?
+Armsel'ger Faust! ich kenne dich nicht mehr.
 
 Umgibt mich hier ein Zauberduft?
 Mich drang's, so grade zu genießen,
@@ -3847,11 +3757,11 @@ Wie würdest du für deinen Frevel büßen!
 Der große Hans, ach wie so klein!
 Läg, hingeschmolzen, ihr zu Füßen.
 
-MEPHISTOPHELES (kommt):
-Geschwind!  ich seh sie unten kommen.
+MEPHISTOPHELES:
+Geschwind! ich seh sie unten kommen.
 
 FAUST:
-Fort!  Fort!  Ich kehre nimmermehr!
+Fort! Fort! Ich kehre nimmermehr!
 
 MEPHISTOPHELES:
 Hier ist ein Kästchen leidlich schwer,
@@ -3866,14 +3776,14 @@ FAUST:
 Ich weiß nicht, soll ich?
 
 MEPHISTOPHELES:
-Fragt Ihr viel?  Meint Ihr vielleicht den Schatz zu wahren?
+    Fragt Ihr viel?
+Meint Ihr vielleicht den Schatz zu wahren?
 Dann rat ich Eurer Lüsternheit,
 Die liebe schöne Tageszeit
 Und mir die weitre Müh zu sparen.
 Ich hoff nicht, daß Ihr geizig seid!
 Ich kratz den Kopf, reib an den Händen-
-(Er stellt das Kästchen in den Schrein und drückt das Schloß wieder zu.)
-Nur fort!  geschwind!
+Nur fort! geschwind!
 Um Euch das süße junge Kind
 Nach Herzens Wunsch und Will zu wenden;
 Und Ihr seht drein
@@ -3881,19 +3791,18 @@ Als solltet Ihr in den Hörsaal hinein,
 Als stünden grau leibhaftig vor Euch da
 Physik und Metaphysika!
 Nur fort!
-(Ab.)
 
 
-Margarete mit einer Lampe.
 
+MARGARETE:
 Es ist so schwül, so dumpfig hie
-(sie macht das Fenster auf)
+
 Und ist doch eben so warm nicht drauß.
 Es wird mir so, ich weiß nicht wie-
 Ich wollt, die Mutter käm nach Haus.
 Mir läuft ein Schauer übern ganzen Leib-
 Bin doch ein töricht furchtsam Weib!
-(sie fängt an zu singen, indem sie sich auszieht.)
+
 
 Es war ein König in Thule
 Gar treu bis an das Grab,
@@ -3925,24 +3834,23 @@ Und sinken tief ins Meer,
 Die Augen täten ihm sinken,
 Trank nie einen Tropfen mehr.
 
-(Sie eröffnet den Schrein, ihre Kleider einzuräumen, und erblickt das
-Schmuckkästchen.)
+
 
 Wie kommt das schöne Kästchen hier herein?
 Ich schloß doch ganz gewiß den Schrein.
-Es ist doch wunderbar!  Was mag wohl drinne sein?
+Es ist doch wunderbar! Was mag wohl drinne sein?
 Vielleicht bracht's jemand als ein Pfand,
 Und meine Mutter lieh darauf.
 Da hängt ein Schlüsselchen am Band
 Ich denke wohl, ich mach es auf!
-Was ist das?  Gott im Himmel!  Schau,
+Was ist das? Gott im Himmel! Schau,
 So was hab ich mein Tage nicht gesehn!
-Ein Schmuck!  Mit dem könnt eine Edelfrau
+Ein Schmuck! Mit dem könnt eine Edelfrau
 Am höchsten Feiertage gehn.
 Wie sollte mir die Kette stehn?
 Wem mag die Herrlichkeit gehören?
 
-(Sie putzt sich damit auf und tritt vor den Spiegel.)
+
 
 Wenn nur die Ohrring meine wären!
 Man sieht doch gleich ganz anders drein.
@@ -3952,20 +3860,14 @@ Allein man läßt's auch alles sein;
 Man lobt euch halb mit Erbarmen.
 Nach Golde drängt,
 Am Golde hängt
-Doch alles.  Ach wir Armen!
-
-
-
-Spaziergang
-
-Faust in Gedanken auf und ab gehend.  Zu ihm Mephistopheles.
+Doch alles. Ach wir Armen!
 
 MEPHISTOPHELES:
-Bei aller verschmähten Liebe!  Beim höllischen Elemente!
+Bei aller verschmähten Liebe! Beim höllischen Elemente!
 Ich wollt, ich wüßte was Ärgers, daß ich's fluchen könnte!
 
 FAUST:
-Was hast?  was kneipt dich denn so sehr?
+Was hast? was kneipt dich denn so sehr?
 So kein Gesicht sah ich in meinem Leben!
 
 MEPHISTOPHELES:
@@ -3993,7 +3895,7 @@ Wollen's der Mutter Gottes weihen,
 Wird uns mit Himmelsmanna erfreuen!"
 Margretlein zog ein schiefes Maul,
 Ist halt, dacht sie, ein geschenkter Gaul,
-Und wahrlich!  gottlos ist nicht der,
+Und wahrlich! gottlos ist nicht der,
 Der ihn so fein gebracht hierher.
 Die Mutter ließ einen Pfaffen kommen;
 Der hatte kaum den Spaß vernommen,
@@ -4022,7 +3924,8 @@ FAUST:
 Und Gretchen?
 
 MEPHISTOPHELES:
-Sitzt nun unruhvoll, Weiß weder, was sie will noch soll,
+    Sitzt nun unruhvoll,
+Weiß weder, was sie will noch soll,
 Denkt ans Geschmeide Tag und Nacht,
 Noch mehr an den, der's ihr gebracht.
 
@@ -4042,38 +3945,30 @@ Und schaff einen neuen Schmuck herbei!
 
 MEPHISTOPHELES:
 Ja, gnäd'ger Herr, von Herzen gerne.
-(Faust ab.)
+
 
 So ein verliebter Tor verpufft
 Euch Sonne, Mond und alle Sterne
 Zum Zeitvertreib dem Liebchen in die Luft.
-(Ab.)
 
-
-
-
-Der Nachbarin Haus
-
-Marthe allein.
-
-
+MARTHE:
 Gott verzeih's meinem lieben Mann,
 Er hat an mir nicht wohl getan!
 Geht da stracks in die Welt hinein
 Und läßt mich auf dem Stroh allein.
 Tät ihn doch wahrlich nicht betrüben,
 Tät ihn, weiß Gott, recht herzlich lieben.
-(Sie weint.)
+
 Vielleicht ist er gar tot!- O Pein!-
 Hätt ich nur einen Totenschein!
 
-(Margarete kommt.)
+
 
 MARGARETE:
 Frau Marthe!
 
 MARTHE:
-Gretelchen, was soll's?
+    Gretelchen, was soll's?
 
 MARGARETE:
 Fast sinken mir die Kniee nieder!
@@ -4087,9 +3982,9 @@ Das muß Sie nicht der Mutter sagen;
 Tät's wieder gleich zur Beichte tragen.
 
 MARGARETE:
-Ach seh Sie nur!  ach schau Sie nur!
+Ach seh Sie nur! ach schau Sie nur!
 
-MARTHE (putzt sie auf):
+MARTHE:
 O du glücksel'ge Kreatur!
 
 MARGARETE:
@@ -4109,38 +4004,38 @@ Die Mutter sieht's wohl nicht, man macht ihr auch was vor.
 MARGARETE:
 Wer konnte nur die beiden Kästchen bringen?
 Es geht nicht zu mit rechten Dingen!
-(Es klopft.)
 
-Ach Gott!  mag das meine Mutter sein?
 
-MARTHE (durchs Vorhängel guckend):
+Ach Gott! mag das meine Mutter sein?
+
+MARTHE:
 Es ist ein fremder Herr- Herein!
 
-(Mephistopheles tritt auf.)
+
 
 MEPHISTOPHELES:
 Bin so frei, grad hereinzutreten,
 Muß bei den Frauen Verzeihn erbeten.
-(Tritt ehrerbietig vor Margareten zurück.)
+
 
 Wollte nach Frau Marthe Schwerdtlein fragen!
 
 MARTHE:
 Ich bin's, was hat der Herr zu sagen?
 
-MEPHISTOPHELES (leise zu ihr):
+MEPHISTOPHELES:
 Ich kenne Sie jetzt, mir ist das genug;
 Sie hat da gar vornehmen Besuch.
 Verzeiht die Freiheit, die ich genommen,
 Will Nachmittage wiederkommen.
 
-MARTHE (lacht):
+MARTHE:
 Denk, Kind, um alles in der Welt!
 Der Herr dich für ein Fräulein hält.
 
 MARGARETE:
 Ich bin ein armes junges Blut;
-Ach Gott!  der Herr ist gar zu gut:
+Ach Gott! der Herr ist gar zu gut:
 Schmuck und Geschmeide sind nicht mein.
 
 MEPHISTOPHELES:
@@ -4149,7 +4044,7 @@ Sie hat ein Wesen, einen Blick so scharf!
 Wie freut mich's, daß ich bleiben darf.
 
 MARTHE:
-Was bringt Er denn?  Verlange sehr-
+Was bringt Er denn? Verlange sehr-
 
 MEPHISTOPHELES:
 Ich wollt, ich hätt eine frohere Mär!-
@@ -4157,11 +4052,11 @@ Ich hoffe, Sie läßt mich's drum nicht büßen:
 Ihr Mann ist tot und läßt Sie grüßen.
 
 MARTHE:
-Ist tot?  das treue Herz!  O weh!
-Mein Mann ist tot!  Ach ich vergeh!
+Ist tot? das treue Herz! O weh!
+Mein Mann ist tot! Ach ich vergeh!
 
 MARGARETE:
-Ach!  liebe Frau, verzweifelt nicht!
+Ach! liebe Frau, verzweifelt nicht!
 
 MEPHISTOPHELES:
 So hört die traurige Geschicht!
@@ -4191,7 +4086,7 @@ Laß Sie doch ja für ihn dreihundert Messen singen!
 Im übrigen sind meine Taschen leer.
 
 MARTHE:
-Was!  nicht ein Schaustück?  kein Geschmeid?
+Was! nicht ein Schaustück? kein Geschmeid?
 Was jeder Handwerksbursch im Grund des Säckels spart,
 Zum Angedenken aufbewahrt,
 Und lieber hungert, lieber bettelt!
@@ -4203,7 +4098,7 @@ Auch er bereute seine Fehler sehr,
 Ja, und bejammerte sein Unglück noch viel mehr.
 
 MARGARETE:
-Ach!  daß die Menschen so unglücklich sind!
+Ach! daß die Menschen so unglücklich sind!
 Gewiß, ich will für ihn manch Requiem noch beten.
 
 MEPHISTOPHELES:
@@ -4222,28 +4117,29 @@ MARGARETE:
 Das ist des Landes nicht der Brauch.
 
 MEPHISTOPHELES:
-Brauch oder nicht!  Es gibt sich auch.
+Brauch oder nicht! Es gibt sich auch.
 
 MARTHE:
 Erzählt mir doch!
 
 MEPHISTOPHELES:
-Ich stand an seinem Sterbebette, Es war was besser als von Mist,
-Von halbgefaultem Stroh; allein er starb als Christ
+    Ich stand an seinem Sterbebette,
+Es war was besser als von Mist,
+Von halbgefaultem Stroh; allein er starb als Christ,
 Und fand, daß er weit mehr noch auf der Zeche hätte.
 "Wie", rief er, "muß ich mich von Grund aus hassen,
 So mein Gewerb, mein Weib so zu verlassen!
-Ach, die Erinnrung tötet mich
+Ach, die Erinnrung tötet mich!
 Vergäb sie mir nur noch in diesem Leben!"
 
-MARTHE (weinend):
-Der gute Mann!  ich hab ihm längst vergeben.
+MARTHE:
+Der gute Mann! ich hab ihm längst vergeben.
 
 MEPHISTOPHELES:
-"Allein, weiß Gott!  sie war mehr schuld als ich."
+"Allein, weiß Gott! sie war mehr schuld als ich."
 
 MARTHE:
-Das lügt er!  Was!  am Rand des Grabs zu lügen!
+Das lügt er! Was! am Rand des Grabs zu lügen!
 
 MEPHISTOPHELES:
 Er fabelte gewiß in letzten Zügen,
@@ -4269,7 +4165,7 @@ Und ich empfing denn auch, wie sich's gebührte,
 Mein wohlgemeßnes Teil davon."
 
 MARTHE:
-Ei wie?  Ei wo?  Hat er's vielleicht vergraben?
+Ei wie? Ei wo? Hat er's vielleicht vergraben?
 
 MEPHISTOPHELES:
 Wer weiß, wo nun es die vier Winde haben.
@@ -4279,18 +4175,18 @@ Sie hat an ihm viel Liebs und Treus getan,
 Daß er's bis an sein selig Ende spürte.
 
 MARTHE:
-Der Schelm!  der Dieb an seinen Kindern!
+Der Schelm! der Dieb an seinen Kindern!
 Auch alles Elend, alle Not
 Konnt nicht sein schändlich Leben hindern!
 
 MEPHISTOPHELES:
-Ja seht!  dafür ist er nun tot.
+Ja seht! dafür ist er nun tot.
 Wär ich nun jetzt an Eurem Platze,
 Betraurt ich ihn ein züchtig Jahr,
 Visierte dann unterweil nach einem neuen Schatze.
 
 MARTHE:
-Ach Gott!  wie doch mein erster war,
+Ach Gott! wie doch mein erster war,
 Find ich nicht leicht auf dieser Welt den andern!
 Es konnte kaum ein herziger Närrchen sein.
 Er liebte nur das allzuviele Wandern
@@ -4307,23 +4203,25 @@ Wechselt ich selbst mit Euch den Ring!
 MARTHE:
 O es beliebt dem Herrn zu scherzen!
 
-MEPHISTOPHELES (für sich):
+MEPHISTOPHELES:
 Nun mach ich mich beizeiten fort!
 Die hielte wohl den Teufel selbst beim Wort.
-(Zu Gretchen.)
+
 Wie steht es denn mit Ihrem Herzen?
 
 MARGARETE:
 Was meint der Herr damit?
 
-MEPHISTOPHELES (für sich):
-Du guts, unschuldigs Kind!  (Laut.) Lebt wohl, ihr Fraun!
+MEPHISTOPHELES:
+    Du guts, unschuldigs Kind!
+Lebt wohl, ihr Fraun!
 
 MARGARETE:
-Lebt wohl!
+    Lebt wohl!
 
 MARTHE:
-O sagt mir doch geschwind!  Ich möchte gern ein Zeugnis haben,
+        O sagt mir doch geschwind!
+Ich möchte gern ein Zeugnis haben,
 Wo, wie und wann mein Schatz gestorben und begraben.
 Ich bin von je der Ordnung Freund gewesen,
 Möcht, ihn auch tot im Wochenblättchen lesen.
@@ -4336,11 +4234,11 @@ Den will ich Euch vor den Richter stellen.
 Ich bring ihn her.
 
 MARTHE:
-O tut das ja!
+    O tut das ja!
 
 MEPHISTOPHELES:
 Und hier die Jungfrau ist auch da?
-Ein braver Knab!  ist viel gereist,
+Ein braver Knab! ist viel gereist,
 Fräuleins alle Höflichkeit erweist.
 
 MARGARETE:
@@ -4353,18 +4251,11 @@ MARTHE:
 Da hinterm Haus in meinem Garten
 Wollen wir der Herren heut abend warten.
 
-
-
-Straße (II)
-
-Faust.  Mephistopheles.
-
-
 FAUST:
-Wie ist's?  Will's fördern?  Will's bald gehn?
+Wie ist's? Will's fördern? Will's bald gehn?
 
 MEPHISTOPHELES:
-Ah bravo!  Find ich Euch in Feuer?
+Ah bravo! Find ich Euch in Feuer?
 In kurzer Zeit ist Gretchen Euer.
 Heut abend sollt Ihr sie bei Nachbar' Marthen sehn:
 Das ist ein Weib wie auserlesen
@@ -4374,7 +4265,7 @@ FAUST:
 So recht!
 
 MEPHISTOPHELES:
-Doch wird auch was von uns begehrt.
+    Doch wird auch was von uns begehrt.
 
 FAUST:
 Ein Dienst ist wohl des andern wert.
@@ -4385,17 +4276,17 @@ Daß ihres Ehherrn ausgereckte Glieder
 In Padua an heil'ger Stätte ruhn.
 
 FAUST:
-Sehr klug!  Wir werden erst die Reise machen müssen!
+Sehr klug! Wir werden erst die Reise machen müssen!
 
 MEPHISTOPHELES:
-Sancta Simplicitas!  darum ist's nicht zu tun;
+Sancta Simplicitas! darum ist's nicht zu tun;
 Bezeugt nur, ohne viel zu wissen.
 
 FAUST:
 Wenn Er nichts Bessers hat, so ist der Plan zerrissen.
 
 MEPHISTOPHELES:
-O heil'ger Mann!  Da wärt Ihr's nun!
+O heil'ger Mann! Da wärt Ihr's nun!
 Ist es das erstemal in eurem Leben,
 Daß Ihr falsch Zeugnis abgelegt?
 Habt Ihr von Gott, der Welt und was sich drin bewegt,
@@ -4419,12 +4310,13 @@ FAUST:
 Und zwar von Herzen.
 
 MEPHISTOPHELES:
-Gut und schön!  Dann wird von ewiger Treu und Liebe,
+    Gut und schön!
+Dann wird von ewiger Treu und Liebe,
 von einzig überallmächt'gem Triebe-
 Wird das auch so von Herzen gehn?
 
 FAUST:
-Laß das!  Es wird!- Wenn ich empfinde,
+Laß das! Es wird!- Wenn ich empfinde,
 Für das Gefühl, für das Gewühl
 Nach Namen suche, keinen finde,
 Dann durch die Welt mit allen Sinnen schweife,
@@ -4437,18 +4329,12 @@ MEPHISTOPHELES:
 Ich hab doch recht!
 
 FAUST:
-Hör!  merk dir dies- Ich bitte dich, und schone meine Lunge-:
+    Hör! merk dir dies-
+Ich bitte dich, und schone meine Lunge-:
 Wer recht behalten will und hat nur eine Zunge,
 Behält's gewiß.
 Und komm, ich hab des Schwätzens Überdruß,
 Denn du hast recht, vorzüglich weil ich muß.
-
-
-
-Garten
-
-Margarete an Faustens Arm, Marthe mit Mephistopheles auf und ab spazierend.
-
 
 MARGARETE:
 Ich fühl es wohl, daß mich der Herr nur schont,
@@ -4461,14 +4347,14 @@ Mein arm Gespräch nicht unterhalten kann.
 FAUST:
 Ein Blick von dir, ein Wort mehr unterhält
 Als alle Weisheit dieser Welt.
-(Er küßt ihre Hand.)
+
 
 MARGARETE:
-Inkommodiert Euch nicht!  Wie könnt Ihr sie nur küssen?
+Inkommodiert Euch nicht! Wie könnt Ihr sie nur küssen?
 Sie ist so garstig, ist so rauh!
 Was hab ich nicht schon alles schaffen müssen!
 Die Mutter ist gar zu genau.
-(Gehn vorüber.)
+
 
 MARTHE:
 Und Ihr, mein Herr, Ihr reist so immer fort?
@@ -4490,7 +4376,7 @@ Mit Grausen seh ich das von weiten.
 
 MARTHE:
 Drum, werter Herr, beratet Euch in Zeiten.
-(Gehn vorüber.)
+
 
 MARGARETE:
 Ja, aus den Augen, aus dem Sinn!
@@ -4499,11 +4385,11 @@ Allein Ihr habt der Freunde häufig,
 Sie sind verständiger, als ich bin.
 
 FAUST:
-O Beste!  glaube, was man so verständig nennt,
+O Beste! glaube, was man so verständig nennt,
 Ist oft mehr Eitelkeit und Kurzsinn.
 
 MARGARETE:
-Wie?
+    Wie?
 
 FAUST:
 Ach, daß die Einfalt, daß die Unschuld nie
@@ -4537,7 +4423,7 @@ Doch übernähm ich gern noch einmal alle Plage,
 So lieb war mir das Kind.
 
 FAUST:
-Ein Engel, wenn dir's glich.
+    Ein Engel, wenn dir's glich.
 
 MARGARETE:
 Ich zog es auf, und herzlich liebt es mich.
@@ -4568,7 +4454,7 @@ Dann auf dem Markt und an dem Herde sorgen,
 Und immer fort wie heut so morgen.
 Da geht's, mein Herr, nicht immer mutig zu;
 Doch schmeckt dafür das Essen, schmeckt die Ruh.
-(Gehn vorüber.)
+
 
 MARTHE:
 Die armen Weiber sind doch übel dran:
@@ -4602,8 +4488,9 @@ MARTHE:
 Ach, Ihr versteht mich nicht!
 
 MEPHISTOPHELES:
-Das tut mir herzlich leid!  Doch ich versteh- daß Ihr sehr gütig seid.
-(Gehn vorüber.)
+    Das tut mir herzlich leid!
+Doch ich versteh- daß Ihr sehr gütig seid.
+
 
 FAUST:
 Du kanntest mich, o kleiner Engel, wieder,
@@ -4624,7 +4511,7 @@ Ach, dacht ich, hat er in deinem Betragen
 Was Freches, Unanständiges gesehn?
 Es schien ihn gleich nur anzuwandeln,
 Mit dieser Dirne gradehin zu handeln.
-Gesteh ich's doch!  Ich wußte nicht, was sich
+Gesteh ich's doch! Ich wußte nicht, was sich
 Zu Eurem Vorteil hier zu regen gleich begonnte;
 Allein gewiß, ich war recht bös auf mich,
 Daß ich auf Euch nicht böser werden konnte.
@@ -4633,61 +4520,59 @@ FAUST:
 Süß Liebchen!
 
 MARGARETE:
-Laßt einmal!
-(Sie pflückt eine Sternblume und zupft die Blätter ab, eins nach dem
-andern.)
+    Laßt einmal!
+
 
 FAUST:
-Was soll das?  Einen Strauß?
+        Was soll das? Einen Strauß?
 
 MARGARETE:
 Nein, es soll nur ein Spiel.
 
 FAUST:
-Wie?
+    Wie?
 
 MARGARETE:
-Geht!  Ihr lacht mich aus.
-(Sie rupft und murmelt.)
+        Geht! Ihr lacht mich aus.
+
 
 FAUST:
 Was murmelst du?
 
-MARGARETE (halblaut):
-Er liebt mich- liebt mich nicht.
+MARGARETE:
+    Er liebt mich- liebt mich nicht.
 FAUST:
 Du holdes Himmelsangesicht!
 
-MARGARETE (fährt fort):
+MARGARETE:
 Liebt mich- nicht- liebt mich- nicht-
-(Das letzte Blatt ausrupfend, mit holder Freude.)
+
 Er liebt mich!
 
 FAUST:
-Ja, mein Kind!  Laß dieses Blumenwort Dir Götterausspruch sein.  Er liebt
-dich!
-Verstehst du, was das heißt?  Er liebt dich!
-(Er faßt ihre beiden Hände.)
+    Ja, mein Kind! Laß dieses Blumenwort
+Dir Götterausspruch sein. Er liebt dich!
+Verstehst du, was das heißt? Er liebt dich!
+
 
 MARGARETE:
 Mich überläuft's!
 
 FAUST:
-O schaudre nicht!  Laß diesen Blick,
+O schaudre nicht! Laß diesen Blick,
 Laß diesen Händedruck dir sagen
 Was unaussprechlich ist:
 Sich hinzugeben ganz und eine Wonne
 Zu fühlen, die ewig sein muß!
 Ewig!- Ihr Ende würde Verzweiflung sein
-Nein, kein Ende!  Kein Ende!
-(Margarete drückt ihm die Hände, macht sich los und läuft weg.  Er steht
-einen Augenblick in Gedanken, dann folgt er ihr.)
+Nein, kein Ende! Kein Ende!
 
-MARTHE (kommend):
+
+MARTHE:
 Die Nacht bricht an.
 
 MEPHISTOPHELES:
-Ja, und wir wollen fort.
+    Ja, und wir wollen fort.
 
 MARTHE:
 Ich bät Euch, länger hier zu bleiben,
@@ -4699,85 +4584,72 @@ Und man kommt ins Gered, wie man sich immer stellt.
 Und unser Pärchen?
 
 MEPHISTOPHELES:
-Ist den Gang dort aufgeflogen.  Mutwill'ge Sommervögel!
+    Ist den Gang dort aufgeflogen.
+Mutwill'ge Sommervögel!
 
 MARTHE:
-Er scheint ihr gewogen.
+    Er scheint ihr gewogen.
 
 MEPHISTOPHELES:
-Und sie ihm auch.  Das ist der Lauf der Welt.
-
-
-
-Ein Gartenhäuschen
-
-Margarete springt herein, steckt sich hinter die Tür, hält die Fingerspitze
-an die Lippen und guckt durch die Ritze.
-
+Und sie ihm auch. Das ist der Lauf der Welt.
 
 MARGARETE:
 Er kommt!
 
-FAUST (kommt):
-Ach, Schelm, so neckst du mich!  Treff ich dich!
-(Er küßt sie.)
+FAUST:
+    Ach, Schelm, so neckst du mich!
+Treff ich dich!
 
-MARGARETE (ihn fassend und den Kuß zurückgebend):
-Bester Mann!  von Herzen lieb ich dich!
-(Mephistopheles klopft an.)
+MARGARETE:
+    Bester Mann! von Herzen lieb ich dich!
 
-FAUST (stampfend):
+
+FAUST:
 Wer da?
 
 MEPHISTOPHELES:
-Gut Freund!
+    Gut Freund!
 
 FAUST:
-Ein Tier!
+        Ein Tier!
 
 MEPHISTOPHELES:
-Es ist wohl Zeit zu scheiden.
+            Es ist wohl Zeit zu scheiden.
 
-MARTHE (kommt):
+MARTHE:
 Ja, es ist spät, mein Herr.
 
 FAUST:
-Darf ich Euch nicht geleiten?
+    Darf ich Euch nicht geleiten?
 
 MARGARETE:
 Die Mutter würde mich- Lebt wohl!
 
 FAUST:
-Muß ich denn gehn?  Lebt wohl!
+    Muß ich denn gehn?
+Lebt wohl!
 
 MARTHE:
-Ade!
+    Ade!
 
 MARGARETE:
-Auf baldig Wiedersehn!
-(Faust und Mephistopheles ab.)
+        Auf baldig Wiedersehn!
+
 
 MARGARETE:
-Du lieber Gott!  was so ein Mann
+Du lieber Gott! was so ein Mann
 Nicht alles, alles denken kann!
 Beschämt nur steh ich vor ihm da
 Und sag zu allen Sachen ja.
 Bin doch ein arm unwissend Kind,
 Begreife nicht, was er an mir findt.
-(Ab.)
 
-
-
-Wald und Höhle
-
-Faust allein.
-
-
+FAUST:
 Erhabner Geist, du gabst mir, gabst mir alles,
-Warum ich bat.  Du hast mir nicht umsonst
+Warum ich bat. Du hast mir nicht umsonst
 Dein Angesicht im Feuer zugewendet.
 Gabst mir die herrliche Natur zum Königreich,
-Kraft, sie zu fühlen, zu genießen.  Nicht
+Kraft, sie zu fühlen, zu genießen. Nicht
 Kalt staunenden Besuch erlaubst du nur,
 Vergönnest mir, in ihre tiefe Brust
 Wie in den Busen eines Freunds zu schauen.
@@ -4798,7 +4670,7 @@ Der Vorwelt silberne Gestalten auf
 Und lindern der Betrachtung strenge Lust.
 
 O daß dem Menschen nichts Vollkommnes wird,
-Empfind ich nun.  Du gabst zu dieser Wonne,
+Empfind ich nun. Du gabst zu dieser Wonne,
 Die mich den Göttern nah und näher bringt,
 Mir den Gefährten, den ich schon nicht mehr
 Entbehren kann, wenn er gleich, kalt und frech,
@@ -4808,7 +4680,7 @@ Er facht in meiner Brust ein wildes Feuer
 Nach jenem schönen Bild geschäftig an.
 So tauml ich von Begierde zu Genuß,
 Und im Genuß verschmacht ich nach Begierde.
-(Mephistopheles tritt auf.)
+
 
 MEPHISTOPHELES:
 Habt Ihr nun bald das Leben gnug geführt?
@@ -4821,7 +4693,7 @@ Ich wollt, du hättest mehr zu tun,
 Als mich am guten Tag zu plagen.
 
 MEPHISTOPHELES:
-Nun, nun!  ich laß dich gerne ruhn,
+Nun, nun! ich laß dich gerne ruhn,
 Du darfst mir's nicht im Ernste sagen.
 An dir Gesellen, unhold, barsch und toll,
 Ist wahrlich wenig zu verlieren.
@@ -4864,14 +4736,15 @@ In stolzer Kraft ich weiß nicht was genießen,
 Bald liebewonniglich in alles überfließen,
 Verschwunden ganz der Erdensohn,
 Und dann die hohe Intuition-
-(mit einer Gebärde)
+
 Ich darf nicht sagen, wie- zu schließen.
 
 FAUST:
 Pfui über dich!
 
 MEPHISTOPHELES:
-Das will Euch nicht behagen; Ihr habt das Recht, gesittet pfui zu sagen.
+    Das will Euch nicht behagen;
+Ihr habt das Recht, gesittet pfui zu sagen.
 Man darf das nicht vor keuschen Ohren nennen,
 Was keusche Herzen nicht entbehren können.
 Und kurz und gut, ich gönn Ihm das Vergnügen,
@@ -4880,7 +4753,7 @@ Doch lange hält Er das nicht aus.
 Du bist schon wieder abgetrieben
 Und, währt es länger, aufgerieben
 In Tollheit oder Angst und Graus.
-Genug damit!  Dein Liebchen sitzt dadrinne,
+Genug damit! Dein Liebchen sitzt dadrinne,
 Und alles wird ihr eng und trüb.
 Du kommst ihr gar nicht aus dem Sinne,
 Sie hat dich übermächtig lieb.
@@ -4903,19 +4776,19 @@ Dann wieder ruhig, wie's scheint,
 Und immer verliebt.
 
 FAUST:
-Schlange!  Schlange!
+Schlange! Schlange!
 
-MEPHISTOPHELES (für sich):
-Gelt!  daß ich dich fange!
+MEPHISTOPHELES:
+Gelt! daß ich dich fange!
 
 FAUST:
-Verruchter!  hebe dich von hinnen,
+Verruchter! hebe dich von hinnen,
 Und nenne nicht das schöne Weib!
 Bring die Begier zu ihrem süßen Leib
 Nicht wieder vor die halb verrückten Sinnen!
 
 MEPHISTOPHELES:
-Was soll es denn?  Sie meint, du seist entflohn,
+Was soll es denn? Sie meint, du seist entflohn,
 Und halb und halb bist du es schon.
 
 FAUST:
@@ -4925,15 +4798,15 @@ Ja, ich beneide schon den Leib des Herrn,
 Wenn ihre Lippen ihn indes berühren.
 
 MEPHISTOPHELES:
-Gar wohl, mein Freund!  Ich hab Euch oft beneidet
+Gar wohl, mein Freund! Ich hab Euch oft beneidet
 Ums Zwillingspaar, das unter Rosen weidet.
 
 FAUST:
 Entfliehe, Kuppler!
 
 MEPHISTOPHELES:
-Schön!  Ihr schimpft, und ich muß lachen.  Der Gott, der Bub' und Mädchen
-schuf,
+    Schön! Ihr schimpft, und ich muß lachen.
+Der Gott, der Bub' und Mädchen schuf,
 Erkannte gleich den edelsten Beruf,
 Auch selbst Gelegenheit zu machen.
 Nur fort, es ist ein großer Jammer!
@@ -4944,7 +4817,7 @@ FAUST:
 Was ist die Himmelsfreud in ihren Armen?
 Laß mich an ihrer Brust erwarmen!
 Fühl ich nicht immer ihre Not?
-Bin ich der Flüchtling nicht?  der Unbehauste?
+Bin ich der Flüchtling nicht? der Unbehauste?
 Der Unmensch ohne Zweck und Ruh,
 Der wie ein Wassersturz von Fels zu Felsen brauste,
 Begierig wütend nach dem Abgrund zu?
@@ -4972,13 +4845,6 @@ Es lebe, wer sich tapfer hält!
 Du bist doch sonst so ziemlich eingeteufelt.
 Nichts Abgeschmackters find ich auf der Welt
 Als einen Teufel, der verzweifelt.
-
-
-
-Gretchens Stube.
-
-Gretchen (am Spinnrad, allein).
-
 
 GRETCHEN:
 Meine Ruh ist hin,
@@ -5014,7 +4880,7 @@ Seiner Augen Gewalt,
 Und seiner Rede
 Zauberfluß,
 Sein Händedruck,
-Und ach!  sein Kuß!
+Und ach! sein Kuß!
 
 Meine Ruh ist hin,
 Mein Herz ist schwer,
@@ -5031,18 +4897,11 @@ So wie ich wollt,
 An seinen Küssen
 Vergehen sollt!
 
-
-
-Marthens Garten
-
-Margarete.  Faust.
-
-
 MARGARETE:
 Versprich mir, Heinrich!
 
 FAUST:
-Was ich kann!
+    Was ich kann!
 
 MARGARETE:
 Nun sag, wie hast du's mit der Religion?
@@ -5050,7 +4909,7 @@ Du bist ein herzlich guter Mann,
 Allein ich glaub, du hältst nicht viel davon.
 
 FAUST:
-Laß das, mein Kind!  Du fühlst, ich bin dir gut;
+Laß das, mein Kind! Du fühlst, ich bin dir gut;
 Für meine Lieben ließ' ich Leib und Blut,
 Will niemand sein Gefühl und seine Kirche rauben.
 
@@ -5061,24 +4920,26 @@ FAUST:
 Muß man?
 
 MARGARETE:
-Ach!  wenn ich etwas auf dich konnte!  Du ehrst auch nicht die heil'gen
-Sakramente.
+    Ach! wenn ich etwas auf dich konnte!
+Du ehrst auch nicht die heil'gen Sakramente.
 
 FAUST:
 Ich ehre sie.
 
 MARGARETE:
-Doch ohne Verlangen.  Zur Messe, zur Beichte bist du lange nicht gegangen.
+    Doch ohne Verlangen.
+Zur Messe, zur Beichte bist du lange nicht gegangen.
 Glaubst du an Gott?
 
 FAUST:
-Mein Liebchen, wer darf sagen: Ich glaub an Gott?
+    Mein Liebchen, wer darf sagen:
+Ich glaub an Gott?
 Magst Priester oder Weise fragen,
 Und ihre Antwort scheint nur Spott
 Über den Frager zu sein.
 
 MARGARETE:
-So glaubst du nicht?
+    So glaubst du nicht?
 
 FAUST:
 Mißhör mich nicht, du holdes Angesicht!
@@ -5104,9 +4965,9 @@ Unsichtbar sichtbar neben dir?
 Erfüll davon dein Herz, so groß es ist,
 Und wenn du ganz in dem Gefühle selig bist,
 Nenn es dann, wie du willst,
-Nenn's Glück!  Herz!  Liebe!  Gott
+Nenn's Glück! Herz! Liebe! Gott
 Ich habe keinen Namen
-Dafür!  Gefühl ist alles;
+Dafür! Gefühl ist alles;
 Name ist Schall und Rauch,
 Umnebelnd Himmelsglut.
 
@@ -5130,13 +4991,15 @@ FAUST:
 Liebs Kind!
 
 MARGARETE:
-Es tut mir lange schon weh, Daß ich dich in der Gesellschaft seh.
+    Es tut mir lange schon weh,
+Daß ich dich in der Gesellschaft seh.
 
 FAUST:
 Wieso?
 
 MARGARETE:
-Der Mensch, den du da bei dir hast, Ist mir in tiefer innrer Seele verhaßt;
+    Der Mensch, den du da bei dir hast,
+Ist mir in tiefer innrer Seele verhaßt;
 Es hat mir in meinem Leben
 So nichts einen Stich ins Herz gegeben
 Als des Menschen widrig Gesicht.
@@ -5185,7 +5048,8 @@ MARGARETE:
 Ich muß nun fort.
 
 FAUST:
-Ach kann ich nie Ein Stündchen ruhig dir am Busen hängen
+    Ach kann ich nie
+Ein Stündchen ruhig dir am Busen hängen,
 Und Brust an Brust und Seel in Seele drängen?
 
 MARGARETE:
@@ -5213,15 +5077,12 @@ Seh ich dich, bester Mann, nur an,
 Weiß nicht, was mich nach deinem Willen treibt,
 Ich habe schon so viel für dich getan,
 Daß mir zu tun fast nichts mehr übrigbleibt.
-(Ab.)
-
-(Mephistopheles tritt auf.)
 
 MEPHISTOPHELES:
-Der Grasaff!  ist er weg?
+Der Grasaff! ist er weg?
 
 FAUST:
-Hast wieder spioniert?
+    Hast wieder spioniert?
 
 MEPHISTOPHELES:
 Ich hab's ausführlich wohl vernommen,
@@ -5255,23 +5116,16 @@ Vielleicht wohl gar der Teufel bin.
 Nun, heute nacht-?
 
 FAUST:
-Was geht dich's an?
+    Was geht dich's an?
 
 MEPHISTOPHELES:
 Hab ich doch meine Freude dran!
-
-
-
-Am Brunnen
-
-Gretchen und Lieschen mit Krügen.
-
 
 LIESCHEN:
 Hast nichts von Bärbelchen gehört?
 
 GRETCHEN:
-Kein Wort.  Ich komm gar wenig unter Leute.
+Kein Wort. Ich komm gar wenig unter Leute.
 
 LIESCHEN:
 Gewiß, Sibylle sagt' mir's heute:
@@ -5279,10 +5133,11 @@ Die hat sich endlich auch betört.
 Das ist das Vornehmtun!
 
 GRETCHEN:
-Wieso?
+    Wieso?
 
 LIESCHEN:
-Es stinkt!  Sie füttert zwei, wenn sie nun ißt und trinkt.
+        Es stinkt!
+Sie füttert zwei, wenn sie nun ißt und trinkt.
 
 GRETCHEN:
 Ach!
@@ -5304,7 +5159,8 @@ GRETCHEN:
 Das arme Ding!
 
 LIESCHEN:
-Bedauerst sie noch gar!  Wenn unsereins am Spinnen war,
+    Bedauerst sie noch gar!
+Wenn unsereins am Spinnen war,
 Uns nachts die Mutter nicht hinunterließ,
 Stand sie bei ihrem Buhlen süß;
 Auf der Türbank und im dunkeln Gang
@@ -5316,20 +5172,20 @@ GRETCHEN:
 Er nimmt sie gewiß zu seiner Frau.
 
 LIESCHEN:
-Er wär ein Narr!  Ein flinker Jung
+Er wär ein Narr! Ein flinker Jung
 Hat anderwärts noch Luft genung.
 Er ist auch fort.
 
 GRETCHEN:
-Das ist nicht schön!
+    Das ist nicht schön!
 
 LIESCHEN:
 Kriegt sie ihn, soll's ihr übel gehn,
 Das Kränzel reißen die Buben ihr,
 Und Häckerling streuen wir vor die Tür!
-(Ab.)
 
-GRETCHEN: (nach Hause gehend):
+
+GRETCHEN::
 Wie konnt ich sonst so tapfer schmälen,
 Wenn tät ein armes Mägdlein fehlen!
 Wie konnt ich über andrer Sünden
@@ -5339,16 +5195,10 @@ Mir's immer doch nicht schwarz gnug war,
 Und segnet mich und tat so groß,
 Und bin nun selbst der Sünde bloß!
 Doch- alles, was dazu mich trieb,
-Gott!  war so gut!  ach, war so lieb!
+Gott! war so gut! ach, war so lieb!
 
 
-
-Zwinger
-
-In der Mauerhöhle ein Andachtsbild der Mater dolorosa, Blumenkruge davor.
-Gretchen steckt frische Blumen in die Kruge.
-
-
+GRETCHEN:
 Ach neige,
 Du Schmerzenreiche,
 Dein Antlitz gnädig meiner Not!
@@ -5371,7 +5221,7 @@ Weißt nur du, nur du allein!
 Wohin ich immer gehe
 Wie weh, wie weh, wie wehe
 Wird mir im Busen hier!
-Ich bin, ach!  kaum alleine,
+Ich bin, ach! kaum alleine,
 Ich wein, ich wein, ich weine,
 Das Herz zerbricht in mir.
 
@@ -5385,18 +5235,12 @@ Die Sonne früh herauf,
 Saß ich in allem Jammer
 In meinem Bett schon auf.
 
-Hilf!  rette mich von Schmach und Tod!
+Hilf! rette mich von Schmach und Tod!
 Ach neige,
 Du Schmerzenreiche,
 Dein Antlitz gnädig meiner Not!
 
-
-
-Nacht.  Straße vor Gretchens Türe
-
-Valentin, Soldat, Gretchens Bruder.
-
-
+VALENTIN:
 Wenn ich so saß bei einem Gelag,
 Wo mancher sich berühmen mag,
 Und die Gesellen mir den Flor
@@ -5411,7 +5255,7 @@ Und sage: "Alles nach seiner Art!
 Aber ist eine im ganzen Land,
 Die meiner trauten Gretel gleicht,
 Die meiner Schwester das Wasser reicht?"
-Topp!  Topp!  Kling!  Klang!  das ging herum;
+Topp! Topp! Kling! Klang! das ging herum;
 Die einen schrieen: "Er hat recht,
 Sie ist die Zier vom ganzen Geschlecht."
 Da saßen alle die Lober stumm.
@@ -5424,13 +5268,10 @@ Bei jedem Zufallswörtchen schwitzen!
 Und möcht ich sie zusammenschmeißen
 Könnt ich sie doch nicht Lügner heißen.
 
-Was kommt heran?  Was schleicht herbei?
+Was kommt heran? Was schleicht herbei?
 Irr ich nicht, es sind ihrer zwei.
 Ist er's, gleich pack ich ihn beim Felle
 Soll nicht lebendig von der Stelle!
-
-
-Faust.  Mephistopheles.
 
 FAUST:
 Wie von dem Fenster dort der Sakristei
@@ -5469,7 +5310,7 @@ Ich sah dabei wohl so ein Ding,
 Als wie eine Art von Perlenschnüren.
 
 FAUST:
-So ist es recht!  Mir tut es weh,
+So ist es recht! Mir tut es weh,
 Wenn ich ohne Geschenke zu ihr geh.
 
 MEPHISTOPHELES:
@@ -5478,7 +5319,9 @@ Umsonst auch etwas zu genießen.
 Jetzt, da der Himmel voller Sterne glüht,
 Sollt Ihr ein wahres Kunststück hören:
 Ich sing ihr ein moralisch Lied,
-Um sie gewisser zu betören.  (Singt zur Zither.) Was machst du mir
+Um sie gewisser zu betören.
+
+Was machst du mir
 Vor Liebchens Tür,
 Kathrinchen, hier
 Bei frühem Tagesblicke?
@@ -5496,83 +5339,84 @@ Tut keinem Dieb
 Nur nichts zulieb
 Als mit dem Ring am Finger.
 
-VALENTIN (tritt vor):
-Wen lockst du hier?  beim Element!
+VALENTIN:
+Wen lockst du hier? beim Element!
 Vermaledeiter Rattenfänger!
 Zum Teufel erst das Instrument!
 Zum Teufel hinterdrein den Sänger!
 
 MEPHISTOPHELES:
-Die Zither ist entzwei!  an der ist nichts zu halten.
+Die Zither ist entzwei! an der ist nichts zu halten.
 
 VALENTIN:
 Nun soll es an ein Schädelspalten!
 
-MEPHISTOPHELES (zu Faust):
-Herr Doktor, nicht gewichen!  Frisch!
+MEPHISTOPHELES:
+Herr Doktor, nicht gewichen! Frisch!
 Hart an mich an, wie ich Euch führe.
 Heraus mit Eurem Flederwisch!
-Nur zugestoßen!  ich pariere.
+Nur zugestoßen! ich pariere.
 
 VALENTIN:
 Pariere den!
 
 MEPHISTOPHELES:
-Warum denn nicht?
+    Warum denn nicht?
 
 VALENTIN:
 Auch den!
 
 MEPHISTOPHELES:
-Gewiß!
+    Gewiß!
 
 VALENTIN:
-Ich glaub, der Teufel ficht!  Was ist denn das?  Schon wird die Hand mir
-lahm.
-
-MEPHISTOPHELES (zu Faust):
-Stoß zu!
-
-VALENTIN (fällt):
-O weh!
+        Ich glaub, der Teufel ficht!
+Was ist denn das? Schon wird die Hand mir lahm.
 
 MEPHISTOPHELES:
-Nun ist der Lümmel zahm!  Nun aber fort!  Wir müssen gleich verschwinden
+Stoß zu!
+
+VALENTIN:
+    O weh!
+
+MEPHISTOPHELES:
+        Nun ist der Lümmel zahm!
+Nun aber fort! Wir müssen gleich verschwinden
 Denn schon entsteht ein mörderlich Geschrei.
 Ich weiß mich trefflich mit der Polizei,
 Doch mit dem Blutbann schlecht mich abzufinden.
 
-MARTHE (am Fenster):
-Heraus!  Heraus!
+MARTHE:
+Heraus! Heraus!
 
-GRETCHEN (am Fenster):
-Herbei ein Licht!
+GRETCHEN:
+    Herbei ein Licht!
 
-MARTHE (wie oben):
+MARTHE:
 Man schilt und rauft, man schreit und ficht.
 
 VOLK:
 Da liegt schon einer tot!
 
-MARTHE (heraustretend):
+MARTHE:
 Die Mörder, sind sie denn entflohn?
 
-GRETCHEN (heraustretend):
+GRETCHEN:
 Wer liegt hier?
 
 VOLK:
-Deiner Mutter Sohn.
+    Deiner Mutter Sohn.
 
 GRETCHEN:
-Allmächtiger!  welche Not!
+Allmächtiger! welche Not!
 
 VALENTIN:
-Ich sterbe!  das ist bald gesagt
+Ich sterbe! das ist bald gesagt
 Und balder noch getan.
 Was steht ihr Weiber, heult und klagt?
 Kommt her und hört mich an!
-(Alle treten um ihn.)
-Mein Gretchen, sieh!  du bist noch jung,
+
+Mein Gretchen, sieh! du bist noch jung,
 Bist gar noch nicht gescheit genung,
 Machst deine Sachen schlecht.
 Ich sag dir's im Vertrauen nur:
@@ -5580,7 +5424,7 @@ Du bist doch nun einmal eine Hur,
 So sei's auch eben recht!
 
 GRETCHEN:
-Mein Bruder!  Gott!  Was soll mir das?
+Mein Bruder! Gott! Was soll mir das?
 
 VALENTIN:
 Laß unsern Herrgott aus dem Spaß!
@@ -5605,7 +5449,7 @@ Je mehr sucht sie des Tages Licht.
 Ich seh wahrhaftig schon die Zeit,
 Daß alle brave Bürgersleut,
 Wie von einer angesteckten Leichen,
-Von dir, du Metze!  seitab weichen.
+Von dir, du Metze! seitab weichen.
 Dir soll das Herz im Leib verzagen,
 Wenn sie dir in die Augen sehn!
 Sollst keine goldne Kette mehr tragen!
@@ -5628,7 +5472,7 @@ Da hofft ich aller meiner Sünden
 Vergebung reiche Maß zu finden.
 
 GRETCHEN:
-Mein Bruder!  Welche Höllenpein!
+Mein Bruder! Welche Höllenpein!
 
 VALENTIN:
 Ich sage, laß die Tränen sein!
@@ -5636,15 +5480,6 @@ Da du dich sprachst der Ehre los,
 Gabst mir den schwersten Herzensstoß.
 Ich gehe durch den Todesschlaf
 Zu Gott ein als Soldat und brav.
-(Stirbt.)
-
-
-
-Dom
-
-Amt, Orgel und Gesang.  Gretchen unter vielem Volke.  Böser Geist hinter
-Gretchen.
-
 
 BÖSER GEIST:
 Wie anders, Gretchen, war dir's,
@@ -5667,7 +5502,7 @@ Und ängstet dich und sich
 Mit ahnungsvoller Gegenwart?
 
 GRETCHEN:
-Weh!  Weh!
+Weh! Weh!
 Wär ich der Gedanken los,
 Die mir herüber und hinüber gehen
 Wider mich!
@@ -5675,7 +5510,7 @@ Wider mich!
 CHOR:
 Dies irae, dies illa
 Solvet saeclum in favilla.
-(Orgelton.)
+
 
 BÖSER GEIST:
 Grimm faßt dich!
@@ -5707,9 +5542,9 @@ Das Gewölbe
 Drängt mich!- Luft!
 
 BÖSER GEIST:
-Verbirg dich!  Sünd und Schande
+Verbirg dich! Sünd und Schande
 Bleibt nicht verborgen.
-Luft?  Licht?
+Luft? Licht?
 Weh dir!
 
 CHOR:
@@ -5727,17 +5562,7 @@ Weh!
 CHOR:
 Quid sum miser tunc dicturus?
 GRETCHEN:
-Nachbarin!  Euer Fläschchen!
-(Sie fällt in Ohnmacht.)
-
-
-
-Walpurgisnacht
-
-Harzgebirg Gegend von Schierke und Elend
-
-Faust.  Mephistopheles.
-
+Nachbarin! Euer Fläschchen!
 
 MEPHISTOPHELES:
 Verlangst du nicht nach einem Besenstiele?
@@ -5766,7 +5591,7 @@ Und leuchtet schlecht, daß man bei jedem Schritte
 Vor einen Baum, vor einen Felsen rennt!
 Erlaub, daß ich ein Irrlicht bitte!
 Dort seh ich eins, das eben lustig brennt.
-Heda!  mein Freund!  darf ich dich zu uns fodern?
+Heda! mein Freund! darf ich dich zu uns fodern?
 Was willst du so vergebens lodern?
 Sei doch so gut und leucht uns da hinauf!
 
@@ -5776,17 +5601,17 @@ Mein leichtes Naturell zu zwingen;
 Nur zickzack geht gewöhnlich unser Lauf.
 
 MEPHISTOPHELES:
-Ei!  Ei!  Er denkt's den Menschen nachzuahmen.
+Ei! Ei! Er denkt's den Menschen nachzuahmen.
 Geh Er nur grad, in 's Teufels Namen!
 Sonst blas ich ihm sein Flackerleben aus.
 
 IRRLICHT:
 Ich merke wohl, Ihr seid der Herr vom Haus,
 Und will mich gern nach Euch bequemen.
-Allein bedenkt!  der Berg ist heute zaubertoll
+Allein bedenkt! der Berg ist heute zaubertoll
 Und wenn ein Irrlicht Euch die Wege weisen soll
 So müßt Ihr's so genau nicht nehmen.
-FAUST, MEPHISTOPHELES, IRRLICHT (im Wechselgesang):
+FAUST, MEPHISTOPHELES, IRRLICHT:
 In die Traum- und Zaubersphäre
 Sind wir, scheint es, eingegangen.
 Führ uns gut und mach dir Ehre
@@ -5800,14 +5625,14 @@ Wie sie schnarchen, wie sie blasen!
 
 Durch die Steine, durch den Rasen
 Eilet Bach und Bächlein nieder.
-Hör ich Rauschen?  hör ich Lieder?
+Hör ich Rauschen? hör ich Lieder?
 Hör ich holde Liebesklage,
 Stimmen jener Himmelstage?
 Was wir hoffen, was wir lieben!
 Und das Echo, wie die Sage
 Alter Zeiten, hallet wider.
 
-"Uhu!  Schuhu!"  tönt es näher,
+"Uhu! Schuhu!"  tönt es näher,
 Kauz und Kiebitz und der Häher,
 Sind sie alle wach geblieben?
 Sind das Molche durchs Gesträuche?
@@ -5818,7 +5643,7 @@ Strecken wunderliche Bande,
 Uns zu schrecken, uns zu fangen;
 Aus belebten derben Masern
 Strecken sie Polypenfasern
-Nach dem Wandrer.  Und die Mäuse
+Nach dem Wandrer. Und die Mäuse
 Tausendfärbig, scharenweise,
 Durch das Moos und durch die Heide!
 Und die Funkenwürmer fliegen
@@ -5852,7 +5677,7 @@ Und hier in der gedrängten Ecke
 Vereinzelt sie sich auf einmal.
 Da sprühen Funken in der Nähe
 Wie ausgestreuter goldner Sand.
-Doch schau!  in ihrer ganzen Höhe
+Doch schau! in ihrer ganzen Höhe
 Entzündet sich die Felsenwand.
 
 MEPHISTOPHELES:
@@ -5885,7 +5710,7 @@ In der Ferne, in der Nähe?
 Ja, den ganzen Berg entlang
 Strömt ein wütender Zaubergesang!
 
-HEXEN (im Chor):
+HEXEN:
 Die Hexen zu dem Brocken ziehn,
 Die Stoppel ist gelb, die Saat ist grün.
 Dort sammelt sich der große Hauf,
@@ -5899,7 +5724,7 @@ Sie reitet auf einem Mutterschwein.
 
 CHOR:
 So Ehre denn, wem Ehre gebührt!
-Frau Baubo vor!  und angeführt!
+Frau Baubo vor! und angeführt!
 Ein tüchtig Schwein und Mutter drauf,
 Da folgt der ganze Hexenhauf.
 
@@ -5907,11 +5732,13 @@ STIMME:
 Welchen Weg kommst du her?
 
 STIMME:
-Übern Ilsenstein!  Da guckt ich der Eule ins Nest hinein,
+    Übern Ilsenstein!
+Da guckt ich der Eule ins Nest hinein,
 Die macht ein Paar Augen!
 
 STIMME:
-O fahre zur Hölle!  Was reitst du so schnelle!
+    O fahre zur Hölle!
+Was reitst du so schnelle!
 
 STIMME:
 Mich hat sie geschunden,
@@ -5935,10 +5762,10 @@ Mit tausend Schritten macht's die Frau;
 Doch wie sie sich auch eilen kann,
 Mit einem Sprunge macht's der Mann.
 
-STIMME (oben):
+STIMME:
 Kommt mit, kommt mit, vom Felsensee!
 
-STIMMEN (von unten):
+STIMMEN:
 Wir möchten gerne mit in die Höh.
 Wir waschen, und blank sind wir ganz und gar;
 Aber auch ewig unfruchtbar.
@@ -5949,14 +5776,14 @@ Der trübe Mond verbirgt sich gern.
 Im Sausen sprüht das Zauberchor
 Viel tausend Feuerfunken hervor.
 
-STIMME (von unten):
-Halte!  Haltet
+STIMME:
+Halte! Halte!
 
-STIMME (oben):
+STIMME:
 Wer ruft da aus der Felsenspalte?
 
-STIMME (von unten):
-Nehmt mich mit!  Nehmt mich mit!
+STIMME:
+Nehmt mich mit! Nehmt mich mit!
 Ich steige schon dreihundert Jahr,
 Und kann den Gipfel nicht erreichen
 Ich wäre gern bei meinesgleichen.
@@ -5967,7 +5794,7 @@ Die Gabel trägt, es trägt der Bock
 Wer heute sich nicht heben kann
 Ist ewig ein verlorner Mann.
 
-HALBHEXE (unten):
+HALBHEXE:
 Ich tripple nach, so lange Zeit;
 Wie sind die andern schon so weit!
 Ich hab zu Hause keine Ruh
@@ -5983,32 +5810,33 @@ BEIDE CHÖRE:
 Und wenn wir um den Gipfel ziehn,
 So streichet an dem Boden hin
 Und deckt die Heide weit und breit
-Mit eurem Schwarm der Hexenheit
-(Sie lassen sich nieder.)
+Mit eurem Schwarm der Hexenheit.
+
 
 MEPHISTOPHELES:
 Das drängt und stößt, das ruscht und klappert!
 Das zischt und quirlt, das zieht und plappert!
 Das leuchtet, sprüht und stinkt und brennt!
 Ein wahres Hexenelement!
-Nur fest an mir!  sonst sind wir gleich getrennt.
+Nur fest an mir! sonst sind wir gleich getrennt.
 Wo bist du?
 
-FAUST (in der Ferne):
-Hier!
+FAUST:
+    Hier!
 
 MEPHISTOPHELES:
-Was!  dort schon hingerissen?  Da werd ich Hausrecht brauchen müssen.
-Platz!  Junker Voland kommt.  Platz!  süßer Pöbel, Platz!
-Hier, Doktor, fasse mich!  und nun in einem Satz
+        Was! dort schon hingerissen?
+Da werd ich Hausrecht brauchen müssen.
+Platz! Junker Voland kommt. Platz! süßer Pöbel, Platz!
+Hier, Doktor, fasse mich! und nun in einem Satz
 Laß uns aus dem Gedräng entweichen;
 Es ist zu toll, sogar für meinesgleichen.
 Dortneben leuchtet was mit ganz besondrem Schein,
 Es zieht mich was nach jenen Sträuchen.
-Komm, komm!  wir schlupfen da hinein.
+Komm, komm! wir schlupfen da hinein.
 
 FAUST:
-Du Geist des Widerspruchs!  Nur zu!  du magst mich führen.
+Du Geist des Widerspruchs! Nur zu! du magst mich führen.
 Ich denke doch, das war recht klug gemacht:
 Zum Brocken wandeln wir in der Walpurgisnacht,
 Um uns beliebig nun hieselbst zu isolieren.
@@ -6035,12 +5863,12 @@ Und alte, die sich klug verhüllen.
 Seid freundlich, nur um meinetwillen;
 Die Müh ist klein, der Spaß ist groß.
 Ich höre was von Instrumenten tönen!
-Verflucht Geschnarr!  Man muß sich dran gewohnen.
-Komm mit!  Komm mit!  Es kann nicht anders sein,
+Verflucht Geschnarr! Man muß sich dran gewohnen.
+Komm mit! Komm mit! Es kann nicht anders sein,
 Ich tret heran und führe dich herein,
 Und ich verbinde dich aufs neue.
-Was sagst du, Freund?  das ist kein kleiner Raum.
-Da sieh nur hin!  du siehst das Ende kaum.
+Was sagst du, Freund? das ist kein kleiner Raum.
+Da sieh nur hin! du siehst das Ende kaum.
 Ein Hundert Feuer brennen in der Reihe
 Man tanzt, man schwatzt, man kocht, man trinkt, man liebt
 Nun sage mir, wo es was Bessers gibt?
@@ -6054,13 +5882,13 @@ Zwar bin ich sehr gewohnt, inkognito zu gehn,
 Doch läßt am Galatag man seinen Orden sehn.
 Ein Knieband zeichnet mich nicht aus,
 Doch ist der Pferdefuß hier ehrenvoll zu Haus.
-Siehst du die Schnecke da?  sie kommt herangekrochen;
+Siehst du die Schnecke da? sie kommt herangekrochen;
 Mit ihrem tastenden Gesicht
 Hat sie mir schon was abgerochen.
 Wenn ich auch will, verleugn ich hier mich nicht.
-Komm nur!  von Feuer gehen wir zu Feuer,
+Komm nur! von Feuer gehen wir zu Feuer,
 Ich bin der Werber, und du bist der Freier.
-(Zu einigen, die um verglimmende Kohlen sitzen:)
+
 Ihr alten Herrn, was macht ihr hier am Ende?
 Ich lobt euch, wenn ich euch hübsch in der Mitte fände,
 Von Saus umzirkt und Jugendbraus;
@@ -6090,7 +5918,7 @@ Von mäßig klugem Inhalt lesen!
 Und was das liebe junge Volk betrifft,
 Das ist noch nie so naseweis gewesen.
 
-MEPHISTOPHELES (der auf einmal sehr alt erscheint):
+MEPHISTOPHELES:
 Zum Jüngsten Tag fühl ich das Volk gereift,
 Da ich zum letztenmal den Hexenberg ersteige,
 Und weil mein Fäßchen trübe läuft,
@@ -6113,8 +5941,8 @@ Verführt, kein Schwert, das nicht den Bund gebrochen,
 Nicht etwa hinterrücks den Gegenmann durchstochen.
 
 MEPHISTOPHELES:
-Frau Muhme!  Sie versteht mir schlecht die Zeiten.
-Getan, geschehn!  Geschehn, getan!
+Frau Muhme! Sie versteht mir schlecht die Zeiten.
+Getan, geschehn! Geschehn, getan!
 Verleg Sie sich auf Neuigkeiten!
 Nur Neuigkeiten ziehn uns an.
 
@@ -6129,13 +5957,15 @@ FAUST:
 Wer ist denn das?
 
 MEPHISTOPHELES:
-Betrachte sie genau!  Lilith ist das.
+    Betrachte sie genau!
+Lilith ist das.
 
 FAUST:
-Wer?
+    Wer?
 
 MEPHISTOPHELES:
-Adams erste Frau.  Nimm dich in acht vor ihren schönen Haaren,
+    Adams erste Frau.
+Nimm dich in acht vor ihren schönen Haaren,
 Vor diesem Schmuck, mit dem sie einzig prangt.
 Wenn sie damit den jungen Mann erlangt,
 So läßt sie ihn so bald nicht wieder fahren.
@@ -6146,9 +5976,9 @@ Die haben schon was Rechts gesprungen!
 
 MEPHISTOPHELES:
 Das hat nun heute keine Ruh.
-Es geht zum neuen Tanz, nun komm!  wir greifen zu.
+Es geht zum neuen Tanz, nun komm! wir greifen zu.
 
-FAUST (mit der Jungen tanzend):
+FAUST:
 Einst hatt ich einen schönen Traum
 Da sah ich einen Apfelbaum,
 Zwei schöne Äpfel glänzten dran,
@@ -6160,7 +5990,7 @@ Und schon vom Paradiese her.
 Von Freuden fühl ich mich bewegt,
 Daß auch mein Garten solche trägt.
 
-MEPHISTOPHELES (mit der Alten):
+MEPHISTOPHELES:
 Einst hatt ich einen wüsten Traum
 Da sah ich einen gespaltnen Baum,
 Der hatt ein ungeheures Loch;
@@ -6173,16 +6003,16 @@ Halt Er einen rechten Pfropf bereit,
 Wenn Er das große Loch nicht scheut.
 
 PROKTOPHANTASMIST:
-Verfluchtes Volk!  was untersteht ihr euch?
+Verfluchtes Volk! was untersteht ihr euch?
 Hat man euch lange nicht bewiesen:
 Ein Geist steht nie auf ordentlichen Füßen?
 Nun tanzt ihr gar, uns andern Menschen gleich!
 
-DIE SCHÖNE (tanzend):
+DIE SCHÖNE:
 Was will denn der auf unserm Ball?
 
-FAUST (tanzend):
-Ei!  der ist eben überall.
+FAUST:
+Ei! der ist eben überall.
 Was andre tanzen, muß er schätzen.
 Kann er nicht jeden Schritt beschwätzen,
 So ist der Schritt so gut als nicht geschehn.
@@ -6193,8 +6023,8 @@ Das hieß' er allenfalls noch gut
 Besonders wenn ihr ihn darum begrüßen solltet.
 
 PROKTOPHANTASMIST:
-Ihr seid noch immer da!  nein, das ist unerhört.
-Verschwindet doch!  Wir haben ja aufgeklärt!
+Ihr seid noch immer da! nein, das ist unerhört.
+Verschwindet doch! Wir haben ja aufgeklärt!
 Das Teufelspack, es fragt nach keiner Regel
 Wir sind so klug, und dennoch spukt's in Tegel.
 Wie lange hab ich nicht am Wahn hinausgekehrt,
@@ -6207,7 +6037,7 @@ PROKTOPHANTASMIST:
 Ich sag's euch Geistern ins Gesicht:
 Den Geistesdespotismus leid ich nicht;
 Mein Geist kann ihn nicht exerzieren.
-(Es wird fortgetanzt.)
+
 Heut, seh ich, will mir nichts gelingen;
 Doch eine Reise nehm ich immer mit
 Und hoffe noch vor meinem letzten Schritt
@@ -6218,16 +6048,16 @@ Er wird sich gleich in eine Pfütze setzen,
 Das ist die Art, wie er sich soulagiert,
 Und wenn Blutegel sich an seinem Steiß ergetzen,
 Ist er von Geistern und von Geist kuriert.
-(Zu Faust, der aus dem Tanz getreten ist.)
+
 Was lässest du das schöne Mädchen fahren,
 Das dir zum Tanz so lieblich sang?
 
 FAUST:
-Ach!  mitten im Gesange sprang
+Ach! mitten im Gesange sprang
 Ein rotes Mäuschen ihr aus dem Munde.
 
 MEPHISTOPHELES:
-Das ist was Rechts!  das nimmt man nicht genau;
+Das ist was Rechts! das nimmt man nicht genau;
 Genug, die Maus war doch nicht grau.
 Wer fragt darnach in einer Schäferstunde?
 
@@ -6235,17 +6065,18 @@ FAUST:
 Dann sah ich-
 
 MEPHISTOPHELES:
-Was?
+    Was?
 
 FAUST:
-Mephisto, siehst du dort Ein blasses, schönes Kind allein und ferne stehen?
+        Mephisto, siehst du dort
+Ein blasses, schönes Kind allein und ferne stehen?
 Sie schiebt sich langsam nur vom Ort,
 Sie scheint mit geschloßnen Füßen zu gehen.
 Ich muß bekennen, daß mir deucht,
 Daß sie dem guten Gretchen gleicht.
 
 MEPHISTOPHELES:
-Laß das nur stehn!  dabei wird's niemand wohl.
+Laß das nur stehn! dabei wird's niemand wohl.
 Es ist ein Zauberbild, ist leblos, ein Idol.
 Ihm zu begegnen, ist nicht gut:
 Vom starren Blick erstarrt des Menschen Blut,
@@ -6263,14 +6094,14 @@ Das ist die Zauberei, du leicht verführter Tor!
 Denn jedem kommt sie wie sein Liebchen vor.
 
 FAUST:
-Welch eine Wonne!  welch ein Leiden!
+Welch eine Wonne! welch ein Leiden!
 Ich kann von diesem Blick nicht scheiden.
 Wie sonderbar muß diesen schönen Hals
 Ein einzig rotes Schnürchen schmücken,
 Nicht breiter als ein Messerrücken!
 
 MEPHISTOPHELES:
-Ganz recht!  ich seh es ebenfalls.
+Ganz recht! ich seh es ebenfalls.
 Sie kann das Haupt auch unterm Arme tragen,
 Denn Perseus hat's ihr abgeschlagen.
 Nur immer diese Lust zum Wahn!
@@ -6281,7 +6112,8 @@ So seh ich wahrlich ein Theater.
 Was gibt's denn da?
 
 SERVIBILIS:
-Gleich fängt man wieder an.  Ein neues Stück, das letzte Stück von sieben.
+    Gleich fängt man wieder an.
+Ein neues Stück, das letzte Stück von sieben.
 So viel zu geben ist allhier der Brauch,
 Ein Dilettant hat es geschrieben
 Und Dilettanten spielen's auch.
@@ -6291,13 +6123,6 @@ Mich dilettiert's, den Vorhang aufzuziehn.
 MEPHISTOPHELES:
 Wenn ich euch auf dem Blocksberg finde,
 Das find ich gut; denn da gehört ihr hin.
-
-
-
-Walpurgisnachtstraum
-
-oder Oberons und Titanias goldne Hochzeit Intermezzo
-
 
 THEATERMEISTER:
 Heute ruhen wir einmal,
@@ -6341,7 +6166,7 @@ So faßt sie nur behende,
 Führt mir nach dem Mittag sie,
 Und ihn an Nordens Ende.
 
-ORCHESTER TUTTI (Fortissimo):
+ORCHESTER TUTTI:
 Fliegenschnauz und Mückennas
 Mit ihren Anverwandten,
 Frosch im Laub und Grill im Gras,
@@ -6384,7 +6209,7 @@ Doch ich bereite mich beizeit
 Zur italien'schen Reise.
 
 PURIST:
-Ach!  mein Unglück führt mich her:
+Ach! mein Unglück führt mich her:
 Wie wird nicht hier geludert!
 Und von dem ganzen Hexenheer
 Sind zweie nur gepudert.
@@ -6407,13 +6232,13 @@ Umschwärmt mir nicht die Nackte!
 Frosch im Laub und Grill im Gras,
 So bleibt doch auch im Takte!
 
-WINDFAHNE (nach der einen Seite):
+WINDFAHNE:
 Gesellschaft, wie man wünschen kann:
 Wahrhaftig lauter Bräute!
 Und Junggesellen, Mann für Mann,
 Die hoffnungsvollsten Leute!
 
-WINDFAHNE (nach der andern Seite):
+WINDFAHNE:
 Und tut sich nicht der Boden auf,
 Sie alle zu verschlingen,
 So will ich mit behendem Lauf
@@ -6464,7 +6289,7 @@ Gar manches Konventikel.
 TÄNZER:
 Da kommt ja wohl ein neues Chor?
 Ich höre ferne Trommeln.
-"Nur ungestört!  es sind im Rohr
+"Nur ungestört! es sind im Rohr
 Die unisonen Dommeln."
 
 TANZMEISTER:
@@ -6540,7 +6365,7 @@ Liege nun im Grase quer-
 Wer hilft mir auf die Beine?
 
 DIE MASSIVEN:
-Platz und Platz!  und ringsherum!
+Platz und Platz! und ringsherum!
 So gehn die Gräschen nieder.
 Geister kommen, Geister auch,
 Sie haben plumpe Glieder.
@@ -6557,99 +6382,11 @@ Gab der Geist euch Flügel,
 Folget meiner leichten Spur,
 Auf zum Rosenhügel!
 
-ORCHESTER (Pianissimo):
+ORCHESTER:
 Wolkenzug und Nebelflor
 Erhellen sich von oben.
 Luft im Laub und Wind im Rohr,
 Und alles ist zerstoben.
-
-
-
-Trüber Tag.  Feld
-
-Faust.  Mephistopheles.
-
-
-FAUST:
-Im Elend!  Verzweifelnd!  Erbärmlich auf der Erde lange verirrt und nun
-gefangen!  Als Missetäterin Im Kerker zu entsetzlichen Qualen eingesperrt,
-das holde unselige Geschöpf!  Bis dahin!  dahin!- Verräterischer,
-nichtswürdiger Geist, und das hast du mir verheimlicht!- Steh nur, steh!
-wälze die teuflischen Augen ingrimmend im Kopf herum!  Steh und trutze mir
-durch deine unerträgliche Gegenwart!  Gefangen!  Im unwiederbringlichen
-Elend!  Bösen Geistern übergeben und der richtenden gefühllosen Menschheit!
-Und mich wiegst du indes in abgeschmackten Zerstreuungen, verbirgst mir
-ihren wachsenden Jammer und lässest sie hilflos verderben!
-
-MEPHISTOPHELES:
-Sie ist die erste nicht.
-
-FAUST:
-Hund!  abscheuliches Untier!- Wandle ihn, du unendlicher Geist!  wandle den
-Wurm wieder in seine Hundsgestalt, wie er sich oft nächtlicherweile gefiel,
-vor mir herzutrotten, dem harmlosen Wandrer vor die Füße zu kollern und
-sich dem niederstürzenden auf die Schultern zu hängen.  Wandl' ihn wieder in
-seine Lieblingsbildung, daß er vor mir im Sand auf dem Bauch krieche, ich
-ihn mit Füßen trete, den Verworfnen!- "Die erste nicht!"- Jammer!  Jammer!
-von keiner Menschenseele zu fassen, daß mehr als ein Geschöpf in die Tiefe
-dieses Elendes versank, daß nicht das erste genugtat für die Schuld aller
-übrigen in seiner windenden Todesnot vor den Augen des ewig Verzeihenden!
-Mir wühlt es Mark und Leben durch, das Elend dieser einzigen- du grinsest
-gelassen über das Schicksal von Tausenden hin!
-
-MEPHISTOPHELES:
-Nun sind wir schon wieder an der Grenze unsres Witzes, da, wo euch Menschen
-der Sinn überschnappt.  Warum machst du Gemeinschaft mit uns wenn du sie
-nicht durchführen kannst?  Willst fliegen und bist vorm Schwindel nicht
-sicher?  Drangen wir uns dir auf, oder du dich uns?
-
-FAUST:
-Fletsche deine gefräßigen Zähne mir nicht so entgegen!  Mir ekelt's!-
-Großer, herrlicher Geist, der du mir zu erscheinen würdigtest, der du mein
-Herz kennest und meine Seele, warum an den Schandgesellen mich schmieden,
-der sich am Schaden weidet und am Verderben sich letzt?
-
-MEPHISTOPHELES:
-Endigst du?
-
-FAUST:
-Rette sie!  oder weh dir!  Den gräßlichsten Fluch über dich auf Jahrtausende!
-
-MEPHISTOPHELES:
-Ich kann die Bande des Rächers nicht lösen, seine Riegel nicht öffnen.-
-"Rette sie!"- Wer war's, der sie ins Verderben stürzte?  Ich oder du?
-(Faust blickt wild umher.)
-Greifst du nach dem Donner?  Wohl, daß er euch elenden Sterblichen nicht
-gegeben ward!  Den unschuldig Entgegnenden zu zerschmettern, das ist so
-Tyrannenart, sich in Verlegenheiten Luft zu machen.
-
-FAUST:
-Bringe mich hin!  Sie soll frei sein!
-
-MEPHISTOPHELES:
-Und die Gefahr, der du dich aussetzest?  Wisse, noch liegt auf der Stadt
-Blutschuld von deiner Hand.  Über des Erschlagenen Stätte schweben rächende
-Geister und lauern auf den wiederkehrenden Mörder.
-
-FAUST:
-Noch das von dir?  Mord und Tod einer Welt über dich Ungeheuer!  Führe mich
-hin, sag ich, und befrei sie.
-
-MEPHISTOPHELES:
-Ich führe dich, und was ich tun kann, höre!  Habe ich alle Macht im Himmel
-und auf Erden?  Des Türners Sinne will ich umnebeln, bemächtige dich der
-Schlüssel und führe sie heraus mit Menschenhand!  Ich wache, die
-Zauberpferde sind bereit, ich entführe euch.  Das vermag ich.
-
-FAUST:
-Auf und davon!
-
-
-
-Nacht, offen Feld
-
-Faust, Mephistopheles, auf schwarzen Pferden daherbrausend.
-
 
 FAUST:
 Was weben die dort um den Rabenstein?
@@ -6667,14 +6404,7 @@ FAUST:
 Sie streuen und weihen.
 
 MEPHISTOPHELES:
-Vorbei!  Vorbei!
-
-
-
-Kerker
-
-Faust mit einem Bund Schlüssel und einer Lampe, vor einem eisernen Türchen.
-
+Vorbei! Vorbei!
 
 FAUST:
 Mich faßt ein längst entwohnter Schauer,
@@ -6683,8 +6413,8 @@ Hier wohnt sie hinter dieser feuchten Mauer
 Und ihr Verbrechen war ein guter Wahn
 Du zauderst, zu ihr zu gehen!
 Du fürchtest, sie wiederzusehen!
-Fort!  dein Zagen zögert den Tod heran.
-(Er ergreift das Schloß.  Es singt inwendig.)
+Fort! dein Zagen zögert den Tod heran.
+
 Meine Mutter, die Hur
 Die mich umgebracht hat!
 Mein Vater, der Schelm
@@ -6694,38 +6424,38 @@ Hub auf die Bein
 An einem kühlen Ort;
 Da ward ich ein schönes Waldvögelein;
 Fliege fort, fliege fort!
-FAUST (aufschließend):
+FAUST:
 Sie ahnet nicht, daß der Geliebte lauscht,
 Die Ketten klirren hört, das Stroh, das rauscht.
-(Er tritt ein.)
 
-MARGARETE (sich auf dem Lager verbergend):
-Weh!  Weh!  Sie kommen.  Bittrer Tod!
 
-FAUST (leise):
-Still!  Still!  ich komme, dich zu befreien.
+MARGARETE:
+Weh! Weh! Sie kommen. Bittrer Tod!
 
-MARGARETE (sich vor ihn hinwälzend):
+FAUST:
+Still! Still! ich komme, dich zu befreien.
+
+MARGARETE:
 Bist du ein Mensch, so fühle meine Not.
 
 FAUST:
 Du wirst die Wächter aus dem Schlafe schreien!
-(Er faßt die Ketten, sie aufzuschließen.)
 
-MARGARETE (auf den Knien):
+
+MARGARETE:
 Wer hat dir Henker diese Macht
 Über mich gegeben!
 Du holst mich schon um Mitternacht.
 Erbarme dich und laß mich leben!
 Ist's morgen früh nicht zeitig genung?
-(Sie steht auf.)
+
 Bin ich doch noch so jung, so jung!
 Und soll schon sterben!
 Schön war ich auch, und das war mein Verderben.
 Nah war der Freund, nun ist er weit;
 Zerrissen liegt der Kranz, die Blumen zerstreut.
 Fasse mich nicht so gewaltsam an!
-Schone mich!  Was hab ich dir getan?
+Schone mich! Was hab ich dir getan?
 Laß mich nicht vergebens flehen,
 Hab ich dich doch mein Tage nicht gesehen!
 
@@ -6739,34 +6469,34 @@ Ich herzt es diese ganze Nacht;
 Sie nahmen mir's, um mich zu kränken,
 Und sagen nun, ich hätt es umgebracht.
 Und niemals werd ich wieder froh..
-Sie singen Lieder auf mich!  Es ist bös von den Leuten!
+Sie singen Lieder auf mich! Es ist bös von den Leuten!
 Ein altes Märchen endigt so,
 Wer heißt sie's deuten?
 
-FAUST (wirft sich nieder):
+FAUST:
 Ein Liebender liegt dir zu Füßen,
 Die Jammerknechtschaft aufzuschließen.
 
-MARGARETE (wirft sich zu ihm):
+MARGARETE:
 O laß uns knien, die Heil'gen anzurufen!
-Sieh!  unter diesen Stufen,
+Sieh! unter diesen Stufen,
 Unter der Schwelle
 Siedet die Hölle!
 Der Böse,
 Mit furchtbarem Grimme,
 Macht ein Getöse!
 
-FAUST (laut):
-Gretchen!  Gretchen!
+FAUST:
+Gretchen! Gretchen!
 
-MARGARETE (aufmerksam):
+MARGARETE:
 Das war des Freundes Stimme!
-(Sie springt auf.  Die Ketten fallen ab.)
-Wo ist er?  ich hab ihn rufen hören.
-Ich bin frei!  mir soll niemand wehren.
+
+Wo ist er? ich hab ihn rufen hören.
+Ich bin frei! mir soll niemand wehren.
 An seinen Hals will ich fliegen,
 An seinem Busen liegen!
-Er rief Gretchen!  Er stand auf der Schwelle.
+Er rief Gretchen! Er stand auf der Schwelle.
 Mitten durchs Heulen und Klappen der Hölle,
 Durch den grimmigen, teuflischen Hohn
 Erkannt ich den süßen, den liebenden Ton.
@@ -6775,23 +6505,24 @@ FAUST:
 Ich bin's!
 
 MARGARETE:
-Du bist's!  O sag es noch einmal!
-(Ihn fassend.)
-Er ist's!  Er ist's!  Wohin ist alle Qual?
-Wohin die Angst des Kerkers?  der Ketten?
-Du bist's!  Kommst, mich zu retten.
+    Du bist's! O sag es noch einmal!
+
+Er ist's! Er ist's! Wohin ist alle Qual?
+Wohin die Angst des Kerkers? der Ketten?
+Du bist's! Kommst, mich zu retten.
 Ich bin gerettet!
 Schon ist die Straße wieder da
 Auf der ich dich zum ersten Male sah
 Und der heitere Garten'
 Wo ich und Marthe deiner warten
 
-FAUST (fortstrebend):
-Komm mit!  Komm mit!
+FAUST:
+Komm mit! Komm mit!
 
 MARGARETE:
-O weile Weil ich doch so gern, wo du weilest.
-(Liebkosend.)
+    O weile!
+Weil ich doch so gern, wo du weilest.
+
 
 FAUST:
 Eile!
@@ -6799,7 +6530,7 @@ Wenn du nicht eilest
 Werden wir's teuer büßen müssen.
 
 MARGARETE:
-Wie?  du kannst nicht mehr küssen?
+Wie? du kannst nicht mehr küssen?
 Mein Freund, so kurz von mir entfernt
 Und hast's Küssen verlernt?
 Warum wird mir an deinem Halse so bang?
@@ -6807,42 +6538,43 @@ Wenn sonst von deinen Worten, deinen Blicken
 Ein ganzer Himmel mich überdrang
 Und du mich küßtest, als wolltest du mich ersticken.
 Küsse mich!
-Sonst küß ich dich!  (Sie umfaßt ihn.)
-O weh!  deine Lippen sind kalt,
+Sonst küß ich dich!
+O weh! deine Lippen sind kalt,
 Sind stumm.
 Wo ist dein Lieben
 Geblieben?
-Wer brachte mich drum?  (Sie wendet sich von ihm.)
+Wer brachte mich drum?
 
 FAUST:
-Komm!  Folge mir!  Liebchen, fasse Mut!
+Komm! Folge mir! Liebchen, fasse Mut!
 Ich herze dich mit tausendfacher Glut
-Nur folge mir!  Ich bitte dich nur dies!
-
-MARGARETE (zu ihm gewendet):
-Und bist du's denn?  Und bist du's auch gewiß?
-
-FAUST:
-Ich bin's!  Komm mit!
+Nur folge mir! Ich bitte dich nur dies!
 
 MARGARETE:
-Du machst die Fesseln los, Nimmst wieder mich in deinen Schoß.
+Und bist du's denn? Und bist du's auch gewiß?
+
+FAUST:
+Ich bin's! Komm mit!
+
+MARGARETE:
+    Du machst die Fesseln los,
+Nimmst wieder mich in deinen Schoß.
 Wie kommt es, daß du dich vor mir nicht scheust?
 Und weißt du denn, mein Freund, wen du befreist?
 
 FAUST:
-Komm!  komm!  schon weicht die tiefe Nacht.
+Komm! komm! schon weicht die tiefe Nacht.
 
 MARGARETE:
 Meine Mutter hab ich umgebracht,
 Mein Kind hab ich ertränkt.
 War es nicht dir und mir geschenkt?
-Dir auch.- Du bist's!  ich glaub es kaum.
-Gib deine Hand!  Es ist kein Traum!
+Dir auch.- Du bist's! ich glaub es kaum.
+Gib deine Hand! Es ist kein Traum!
 Deine liebe Hand!- Ach, aber sie ist feucht!
-Wische sie ab!  Wie mich deucht,
+Wische sie ab! Wie mich deucht,
 Ist Blut dran.
-Ach Gott!  was hast du getan!
+Ach Gott! was hast du getan!
 Stecke den Degen ein,
 Ich bitte dich drum!
 FAUST:
@@ -6877,17 +6609,18 @@ FAUST:
 Ins Freie.
 
 MARGARETE:
-Ist das Grab drauß, Lauert der Tod, so komm!
+    Ist das Grab drauß,
+Lauert der Tod, so komm!
 Von hier ins ewige Ruhebett
 Und weiter keinen Schritt
-Du gehst nun fort?  O Heinrich, könnt ich mit!
+Du gehst nun fort? O Heinrich, könnt ich mit!
 
 FAUST:
-Du kannst!  So wolle nur!  Die Tür steht offen!
+Du kannst! So wolle nur! Die Tür steht offen!
 
 MARGARETE:
 Ich darf nicht fort; für mich ist nichts zu hoffen.
-Was hilft es, fliehn?  Sie lauern doch mir auf.
+Was hilft es, fliehn? Sie lauern doch mir auf.
 Es ist so elend, betteln zu müssen
 Und noch dazu mit bösem Gewissen!
 Es ist so elend, in der Fremde schweifen
@@ -6897,9 +6630,9 @@ FAUST:
 Ich bleibe bei dir
 
 MARGARETE:
-Geschwind!  Geschwind!
+Geschwind! Geschwind!
 Rette dein armes Kind!
-Fort!  immer den Weg
+Fort! immer den Weg
 Am Bach hinauf,
 Über den Steg,
 In den Wald hinein,
@@ -6908,7 +6641,7 @@ Im Teich.
 Faß es nur gleich!
 Es will sich heben,
 Es zappelt noch!
-Rette!  rette!
+Rette! rette!
 
 FAUST:
 Besinne dich doch!
@@ -6930,15 +6663,15 @@ Hilft hier kein Flehen, hilft kein Sagen,
 So wag ich's, dich hinwegzutragen.
 
 MARGARETE:
-Laß mich!  Nein, ich leide keine Gewalt!
+Laß mich! Nein, ich leide keine Gewalt!
 Fasse mich nicht so mörderisch an!
 Sonst hab ich dir ja alles zulieb getan.
 
 FAUST:
-Der Tag graut!  Liebchen!  Liebchen!
+Der Tag graut! Liebchen! Liebchen!
 
 MARGARETE:
-Tag!  Ja, es wird Tag!  der letzte Tag dringt herein;
+Tag! Ja, es wird Tag! der letzte Tag dringt herein;
 Mein Hochzeittag sollt es sein!
 Sag niemand, daß du schon bei Gretchen warst.
 Weh meinem Kranze!
@@ -6958,42 +6691,42 @@ Stumm liegt die Welt wie das Grab!
 FAUST:
 O wär ich nie geboren!
 
-MEPHISTOPHELES (erscheint draußen):
-Auf!  oder ihr seid verloren.
-Unnützes Zagen!  Zaudern und Plaudern!
+MEPHISTOPHELES:
+Auf! oder ihr seid verloren.
+Unnützes Zagen! Zaudern und Plaudern!
 Mein Pferde schaudern,
 Der Morgen dämmert auf.
 
 MARGARETE:
 Was steigt aus dem Boden herauf?
-Der!  der!  Schick ihn fort!
+Der! der! Schick ihn fort!
 Was will der an dem heiligen Ort?
 Er will mich!
 
 FAUST:
-Du sollst leben!
+    Du sollst leben!
 
 MARGARETE:
-Gericht Gottes!  dir hab ich mich übergeben!
+Gericht Gottes! dir hab ich mich übergeben!
 
-MEPHISTOPHELES (zu Faust):
-Komm!  komm!  Ich lasse dich mit ihr im Stich.
+MEPHISTOPHELES:
+Komm! komm! Ich lasse dich mit ihr im Stich.
 
 MARGARETE:
-Dein bin ich, Vater!  Rette mich!
-Ihr Engel!  Ihr heiligen Scharen,
+Dein bin ich, Vater! Rette mich!
+Ihr Engel! Ihr heiligen Scharen,
 Lagert euch umher, mich zu bewahren!
-Heinrich!  Mir graut's vor dir.
+Heinrich! Mir graut's vor dir.
 
 MEPHISTOPHELES:
 Sie ist gerichtet!
 
-STIMME (von oben):
-Ist gerettet!
+STIMME:
+    Ist gerettet!
 
-MEPHISTOPHELES (zu Faust):
-Her zu mir!
-(Verschwindet mit Faust.)
+MEPHISTOPHELES:
+        Her zu mir!
 
-STIMME (von innen, verhallend):
-Heinrich!  Heinrich!
+
+STIMME:
+Heinrich! Heinrich!

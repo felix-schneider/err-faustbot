@@ -13,29 +13,31 @@ class FaustBot(BotPlugin):
     def parseFaust(self):
         sentences = {}
         characters = {}
+        # current line number
         i = 0
-        newlines = 2
+        # line the current sentence started in
         lastSentence = 0
         with open("faust.txt", encoding="utf-8") as faust:
             for line in faust:
-                line = self.removeparentheses(line)
-                if line == "\n":
-                    newlines += 1
-                #if the first few characters are uppercase,
-                #there is a new character speaking
-                elif (len(line) < 3 and line.isupper()) or line[:3].isupper():
-                    characters[i+1] = line[:-2].title()
-                    newlines = 0
-                    lastSentence = 0
-                elif newlines < 2 and not line == "":
-                    i += 1
-                    newlines = 0
-                    if lastSentence == 0:
-                        sentences[i] = line[:-1] # no ugly \n
+                line = line[:-1] # remove \n
+                if line.isupper():
+                    characters[i+1] = [line[:-1].title()]
+                elif line != "":
+                    if line.startswith(" "): # this means the line is continued from another character
+                        if lastSentence == 0:
+                            lastSentence = self.getnextsmallerkey(sentences, i)
+                        
+                        # add the next speaking character
+                        characters[lastSentence] = characters[self.getnextsmallerkey(characters, i)] + characters[i+1]
                     else:
-                        sentences[lastSentence] += " \\ " + line[:-1]
+                        i += 1
                     
-                    if line[-2] in ["!", ".", "?"]:
+                    if lastSentence == 0:
+                        sentences[i] = line
+                    else:
+                        sentences[lastSentence] += " \\ " + line.lstrip()
+                    
+                    if line[-1] in ["!", ".", "?"] or (line[-1] == '"' and line[-2] in ["!", ".", "?"]):
                         lastSentence = 0
                     elif lastSentence == 0:
                         lastSentence = i
@@ -47,7 +49,7 @@ class FaustBot(BotPlugin):
     @botcmd
     def faust(self, mess, args):
         """ Print a random line from Goethe's "Faust" in sentence context """
-        argss = args.split(" ")
+        argss = args.split()
         line = 0
         err = ""
         if len(argss) != 0:
@@ -73,25 +75,29 @@ class FaustBot(BotPlugin):
         
         whosaidit = self.getnextsmaller(self.characters, line)
         sentence = self.getnextsmaller(self.sentences, line)
-        return err + '„{0}“, gesprochen von {1} in Vers {2}'.format(sentence, whosaidit, line)
+        return err + '„{0}“, gesprochen von {1} in Vers {2}'.format(sentence, self.concat(whosaidit), line)
     
     def getnextsmaller(self, d, i):
+        return d[self.getnextsmallerkey(d, i)]
+    
+    def getnextsmallerkey(self, d, i):
         last = -1
         for j in iter(sorted(d.keys())):
             if j > i:
                 break
             last = j
-        return d[last]
+        return last
     
-    def removeparantheses(self, s):
-        if "(" not in s and ")" not in s:
-            return s
-        start = s.find("(")
-        if start > 0 and s[start-1] == " ":
-            start -= 1
-        if start < 0:
-            start = 0
-        end = s.find(")") + 1
-        if end < 0:
-            end = len(s)
-        return s[:start] + s[end:]
+    def concat(self, l):
+        res = ""
+        if len(l) == 0:
+            return res
+        res += l[0]
+        for elem in l[1:-1]:
+            res += ", " + elem
+        if len(l) != 1:
+            res += " und " + l[-1]
+        return res
+        
+    def getlines(self):
+        return self.lines
