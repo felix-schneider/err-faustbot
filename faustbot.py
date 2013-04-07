@@ -1,3 +1,5 @@
+Ôªø# coding=utf-8
+
 from errbot.botplugin import BotPlugin
 from errbot import botcmd
 import random
@@ -7,7 +9,7 @@ class FaustBot(BotPlugin):
     def __init__(self):
         super(FaustBot, self).__init__()
         self.parseFaust()
-        
+    
     def parseFaust(self):
         sentences = {}
         characters = {}
@@ -31,7 +33,7 @@ class FaustBot(BotPlugin):
                     if lastSentence == 0:
                         sentences[i] = line[:-1] # no ugly \n
                     else:
-                        sentences[lastSentence]+= " \\ " + line[:-1]
+                        sentences[lastSentence] += " \\ " + line[:-1]
                     
                     if line[-2] in ["!", ".", "?"]:
                         lastSentence = 0
@@ -45,13 +47,13 @@ class FaustBot(BotPlugin):
     @botcmd
     def faust(self, mess, args):
         """ Print a random line from Goethe's "Faust" in sentence context """
-        argss = args.split(' ')
+        argss = args.split(" ")
         line = 0
         err = ""
         if len(argss) != 0:
             if argss[0] == "help":
-                return "!faust f¸r einen zuf‰lligen Vers. !faust [1.." + str(self.lines) + "]\
- f¸r einen bestimmten und !faust [-" + str(self.lines) + ",-1] f¸r einen bestimmten von hinten."
+                return "!faust f√ºr einen zuf√§igen Vers. !faust [1.." + str(self.lines) + "]\
+ f√ºr einen bestimmten und !faust [-" + str(self.lines) + ",-1] f√ºr einen bestimmten von hinten."
             try:
                 i = int(argss[0])
                 if abs(i) > self.lines:
@@ -64,7 +66,7 @@ class FaustBot(BotPlugin):
                     else:
                         line = i
             except ValueError:
-                err += "Das ist keine Zahl. Ich bin mir sicher. Nimm einen zuf‰lligen Vers:\n"
+                err += "Das ist keine Zahl. Ich bin mir sicher. Nimm einen zuf√§lligen Vers:\n"
         
         if line == 0:
             line = random.randint(0, self.lines)
