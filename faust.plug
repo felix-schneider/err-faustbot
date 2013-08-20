@@ -4,3 +4,6 @@ Module = faustbot
 
 [Documentation]
 Description = Prints a random line from Goethe's Faust in sentence context.
+
+[Python]
+Version=2+
